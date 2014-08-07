@@ -1,0 +1,67 @@
+[NAME]
+A Humble Offering to [NAME]
+After [NAME]
+At One With [NAME]
+Before [NAME]
+Better [NO_ART_NAME]
+Beyond [NAME]
+Choose [NAME]
+Common Sense [NO_ART_NAME]
+Errors In [NAME]
+Give Me [NAME]
+It Is [NAME]
+More [NO_ART_NAME]
+Musings on [NAME]
+My Thoughts on [NAME]
+Never Underestimate [NAME]
+Pathways to [NAME]
+Start Your Day With [NAME]
+The Art of [NAME]
+The Future of [NAME]
+The History of [NAME]
+The Nuanced [NO_ART_NAME]
+The Secret of [NAME]
+The Truth About [NAME]
+The Unabridged [NO_ART_NAME]
+The Wizard's Guide to [NAME]
+The World Without [NAME]
+Traditional [NO_ART_NAME]
+Uncanny [NO_ART_NAME]
+Victory By [NAME]
+[NAME] After The End
+[NAME] and Other Travesties
+[NAME] and The Coming Troubles
+[NAME] and The Universe
+[NAME] Comes Full Circle
+[NAME] Explained
+[NAME] Exposed
+[NAME] For Everyone
+[NAME] For The Beginning Practicioner
+[NAME] In [ANY_AGE]
+[NAME] In The Modern Era
+[NAME] In The Time of My Ancestors
+[NAME] Is My Life
+[NAME] Is The Way
+[NAME] Questioned
+[NAME] The Easy Way
+[NAME] When It Counts
+[NAME] Without Limits
+[NAME], Abridged
+[NAME], My Love
+[NAME]: A Brief History
+[NAME]: A New Approach
+[NAME]: Before and After
+[NAME]: Common Practice
+[NAME]: Fact or Fiction?
+[NAME]: Further Musings
+[NAME]: My Only Mistake
+[NAME]: Natural or Supernatural?
+[NAME]: Principles and Practice
+[NAME]: Problems And Solutions
+[NAME]: The Definitive Guide
+[NAME]: The Truth
+Can [NAME] Save The World?
+Could It Be [NAME]?
+Did [NAME] Falter?
+First [NAME], Then The World!
+To [NAME] and Glory!

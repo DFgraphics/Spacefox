@@ -1,0 +1,26 @@
+creature_equipment
+
+[OBJECT:CREATURE]
+
+[CREATURE:EQUIPMENT_WAGON]
+	[DESCRIPTION:A rolling platform for carrying passengers or cargo.]
+	[NAME:wagon:wagons:wagon]
+	[CASTE_NAME:wagon:wagons:wagon]
+	[CREATURE_TILE:'W'][COLOR:6:0:0]
+	[EQUIPMENT_WAGON][COMMON_DOMESTIC]
+	[NOT_BUTCHERABLE]
+	[BODY:WAGON]
+	[USE_MATERIAL_TEMPLATE:WOOD:WOOD_TEMPLATE]
+
+	Wagons-as-creatures is most likely going to be replaced once moving siege engines are in, so we'll just use a generic "wood" material here instead of worrying about coding up race glosses again.
+
+	[TISSUE:WOOD]
+		[TISSUE_NAME:wood:wooden]
+		[TISSUE_MATERIAL:LOCAL_CREATURE_MAT:WOOD]
+	[TISSUE_LAYER:BY_CATEGORY:ALL:WOOD]
+	[ITEMCORPSE:WOOD:NO_SUBTYPE:LOCAL_CREATURE_MAT:WOOD]
+	[BODY_SIZE:0:0:12000]
+	[ALL_ACTIVE]
+	[TRADE_CAPACITY:15000]
+	[MUNDANE]
+	[ODOR_LEVEL:0]
