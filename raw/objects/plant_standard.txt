@@ -1455,7 +1455,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:1:2]
-
 	[TREE_COLOR:7:0:1]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:7:0:1]
@@ -1486,7 +1485,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:2:3]
-
 	[TREE_COLOR:0:0:1]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:0:0:1]
@@ -1518,7 +1516,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:3:3]
-
 	[TREE_COLOR:1:0:0]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:1:0:0]
@@ -1549,7 +1546,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:2:3]
-
 	[TREE_COLOR:4:0:1]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:4:0:1]
@@ -1581,7 +1577,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:1:2]
-
 	[TREE_COLOR:6:0:1]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:6:0:1]
@@ -1612,7 +1607,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:2:3]
-
 	[TREE_COLOR:5:0:1]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:5:0:1]
@@ -1645,7 +1639,6 @@ Uristocrat did the density values.
 	[WET][DRY]
 	[BIOME:SUBTERRANEAN_WATER]
 	[UNDERGROUND_DEPTH:2:3]
-
 	[TREE_COLOR:3:0:0]
 	[DEAD_TREE_COLOR:0:0:1]
 	[SAPLING_COLOR:3:0:0]
@@ -1681,7 +1674,6 @@ Uristocrat did the density values.
 	[BIOME:SUBTERRANEAN_WATER]
 	[BIOME:SUBTERRANEAN_CHASM]
 	[UNDERGROUND_DEPTH:3:3]
-
 	[TREE_COLOR:4:0:0]
 	[DEAD_TREE_COLOR:5:0:0]
 	[SAPLING_COLOR:4:0:0]
@@ -1715,7 +1707,6 @@ Uristocrat did the density values.
 	[PREFSTRING:living shadows]
 	[DRY][EVIL]
 	[BIOME:NOT_FREEZING]
-
 
 [PLANT:FEATHER]
 	[NAME:feather tree][NAME_PLURAL:feather trees][ADJ:feather tree]

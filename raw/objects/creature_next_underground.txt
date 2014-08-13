@@ -1118,7 +1118,7 @@ creature_next_underground
 	[DESCRIPTION:A tiny underground creature made of a mass of appendages resembling human fingers.  It creeps across the ground like a starfish and eats with a mouth on the bottom of its body.]
 	[NAME:creepy crawler:creepy crawlers:creepy crawler]
 	[CASTE_NAME:creepy crawler:creepy crawlers:creepy crawler]
-	[CREATURE_TILE:'*'][COLOR:6:0:0]
+	[CREATURE_TILE:161][COLOR:6:0:0]
 	[PETVALUE:20]
 	[PET_EXOTIC]
 	[EVIL]

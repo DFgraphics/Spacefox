@@ -88,7 +88,7 @@ creature_other
 	[DESCRIPTION:A small mud-dwelling amphibian.]
 	[NAME:moghopper:moghoppers:moghopper]
 	[CASTE_NAME:moghopper:moghoppers:moghopper]
-	[CREATURE_TILE:161][COLOR:6:0:0]
+	[CREATURE_TILE:163][COLOR:6:0:0]
 	[PETVALUE:20]
 	[VERMIN_GROUNDER][FISHITEM][FREQUENCY:10]
 	[AMPHIBIOUS][SMALL_REMAINS][NO_SPRING][NO_AUTUMN][NO_WINTER][SAVAGE]

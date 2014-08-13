@@ -45,7 +45,7 @@ plant_crops
 		[GROWTH_NAME:single-grain wheat leaf:single-grain wheat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:TWO-GRAIN_WHEAT] emmer wheat
 	[NAME:two-grain wheat][NAME_PLURAL:two-grain wheat][ADJ:two-grain wheat]
@@ -90,7 +90,7 @@ plant_crops
 		[GROWTH_NAME:two-grain wheat leaf:two-grain wheat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:SOFT_WHEAT] Triticum aestivum
 	[NAME:soft wheat][NAME_PLURAL:soft wheat][ADJ:soft wheat]
@@ -135,7 +135,7 @@ plant_crops
 		[GROWTH_NAME:soft wheat leaf:soft wheat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:HARD_WHEAT] durum
 	[NAME:hard wheat][NAME_PLURAL:hard wheat][ADJ:hard wheat]
@@ -180,7 +180,7 @@ plant_crops
 		[GROWTH_NAME:hard wheat leaf:hard wheat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:SPELT] triticum spelta
 	[NAME:spelt][NAME_PLURAL:spelt][ADJ:spelt]
@@ -225,7 +225,7 @@ plant_crops
 		[GROWTH_NAME:spelt leaf:spelt leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:BARLEY] Hordeum vulgare
 	[NAME:barley][NAME_PLURAL:barley][ADJ:barley]
@@ -270,7 +270,7 @@ plant_crops
 		[GROWTH_NAME:barley leaf:barley leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:BUCKWHEAT] Fagopyrum esculentum
 	[NAME:buckwheat][NAME_PLURAL:buckwheat][ADJ:buckwheat]
@@ -318,7 +318,7 @@ plant_crops
 		[GROWTH_NAME:buckwheat leaf:buckwheat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:buckwheat flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -357,7 +357,7 @@ plant_crops
 		[GROWTH_NAME:oat leaf:oat leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:ALFALFA] Medicago sativa
 	[NAME:alfalfa][NAME_PLURAL:alfalfa][ADJ:alfalfa]
@@ -388,7 +388,7 @@ plant_crops
 		[GROWTH_NAME:alfalfa leaf:alfalfa leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:alfalfa flower cluster:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -439,7 +439,7 @@ plant_crops
 		[GROWTH_NAME:rye leaf:rye leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:SORGHUM] sorghum bicolor
 	[NAME:sorghum][NAME_PLURAL:sorghum][ADJ:sorghum]
@@ -488,7 +488,7 @@ plant_crops
 		[GROWTH_NAME:sorghum leaf:sorghum leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:sorghum flower cluster:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -539,7 +539,7 @@ plant_crops
 		[GROWTH_NAME:rice leaf:rice leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:MAIZE] Zea mays subsp. mays
 	[NAME:maize plant][NAME_PLURAL:maize plants][ADJ:maize plant]
@@ -586,7 +586,7 @@ plant_crops
 		[GROWTH_NAME:maize leaf:maize leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:QUINOA] Chenopodium quinoa
 	[NAME:quinoa][NAME_PLURAL:quinoa][ADJ:quinoa]
@@ -634,7 +634,7 @@ plant_crops
 		[GROWTH_NAME:quinoa leaf:quinoa leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:quinoa flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -688,7 +688,7 @@ plant_crops
 		[GROWTH_NAME:kaniwa leaf:kaniwa leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:kaniwa flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -726,7 +726,7 @@ plant_crops
 		[GROWTH_NAME:bitter vetch leaf:bitter vetch leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:1:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:1:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:bitter vetch flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -738,7 +738,7 @@ plant_crops
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:STRUCTURAL]
 		[GROWTH_DENSITY:1000]
 		[GROWTH_TIMING:120000:200000]
-		[GROWTH_PRINT:'%':'%':2:0:1:120000:200000:3]
+		[GROWTH_PRINT:130:'%':2:0:1:120000:200000:3]
 		[GROWTH_HAS_SEED]
 
 [PLANT:PENDANT_AMARANTH] Amaranthus caudatus
@@ -789,7 +789,7 @@ plant_crops
 		[GROWTH_NAME:pendant amaranth leaf:pendant amaranth leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:pendant amaranth inflorescence:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -848,7 +848,7 @@ plant_crops
 		[GROWTH_NAME:blood amaranth leaf:blood amaranth leaves] edible
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:blood amaranth inflorescence:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -907,7 +907,7 @@ plant_crops
 		[GROWTH_NAME:purple amaranth leaf:purple amaranth leaves] edible
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:purple amaranth inflorescence:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -944,7 +944,7 @@ plant_crops
 		[GROWTH_NAME:red spinach leaf:red spinach leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:red spinach inflorescence:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -982,7 +982,7 @@ plant_crops
 		[GROWTH_NAME:elephant-head amaranth leaf:elephant-head amaranth leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:6:0:1:ALL:1]
+		[GROWTH_PRINT:147:6:6:0:1:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:elephant-head amaranth inflorescence:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -1033,7 +1033,7 @@ plant_crops
 		[GROWTH_NAME:pearl millet leaf:pearl millet leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:WHITE_MILLET] Panicum miliaceum
 	[NAME:white millet plant][NAME_PLURAL:white millet plants][ADJ:white millet plant]
@@ -1078,7 +1078,7 @@ plant_crops
 		[GROWTH_NAME:white millet leaf:white millet leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:FINGER_MILLET] Eleusine coracana
 	[NAME:finger millet plant][NAME_PLURAL:finger millet plants][ADJ:finger millet plant]
@@ -1123,7 +1123,7 @@ plant_crops
 		[GROWTH_NAME:finger millet leaf:finger millet leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:FOXTAIL_MILLET] Setaria italica
 	[NAME:foxtail millet plant][NAME_PLURAL:foxtail millet plants][ADJ:foxtail millet plant]
@@ -1168,7 +1168,7 @@ plant_crops
 		[GROWTH_NAME:foxtail millet leaf:foxtail millet leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:FONIO] Digitaria exilis
 	[NAME:fonio plant][NAME_PLURAL:fonio plants][ADJ:fonio plant]
@@ -1213,7 +1213,7 @@ plant_crops
 		[GROWTH_NAME:fonio leaf:fonio leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:TEFF] Eragrostis tef
 	[NAME:teff plant][NAME_PLURAL:teff plants][ADJ:teff plant]
@@ -1258,7 +1258,7 @@ plant_crops
 		[GROWTH_NAME:teff leaf:teff leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:FLAX] Linum usitatissimum
 	[NAME:flax plant][NAME_PLURAL:flax plants][ADJ:flax plant]
@@ -1319,7 +1319,7 @@ plant_crops
 		[GROWTH_NAME:flax leaf:flax leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:flax flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -1352,7 +1352,7 @@ plant_crops
 		[GROWTH_NAME:jute leaf:jute leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:jute flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -1415,7 +1415,7 @@ plant_crops
 		[GROWTH_NAME:hemp leaf:hemp leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:COTTON] Gossypium hirsutum / sp.
 	[NAME:cotton plant][NAME_PLURAL:cotton plants][ADJ:cotton plant]
@@ -1466,7 +1466,7 @@ plant_crops
 		[GROWTH_NAME:cotton leaf:cotton leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:cotton flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -1496,7 +1496,7 @@ plant_crops
 		[GROWTH_NAME:ramie leaf:ramie leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 
 [PLANT:KENAF] Hibiscus cannabinus
 	[NAME:kenaf plant][NAME_PLURAL:kenaf plants][ADJ:kenaf plant]
@@ -1547,7 +1547,7 @@ plant_crops
 		[GROWTH_NAME:kenaf leaf:kenaf leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:kenaf flower:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]
@@ -1577,7 +1577,7 @@ plant_crops
 		[GROWTH_NAME:papyrus leaf:papyrus leaves]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:LEAF]
 		[GROWTH_DENSITY:1000]
-		[GROWTH_PRINT:0:6:2:0:0:ALL:1]
+		[GROWTH_PRINT:147:6:2:0:0:ALL:1]
 	[GROWTH:FLOWERS]
 		[GROWTH_NAME:papyrus flower cluster:STP]
 		[GROWTH_ITEM:PLANT_GROWTH:NONE:LOCAL_PLANT_MAT:FLOWER]

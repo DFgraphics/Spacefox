@@ -1512,6 +1512,9 @@ plant_garden
 		[STATE_COLOR:ALL:PURPLE]
 		[DISPLAY_COLOR:5:0:1]
 	[USE_MATERIAL_TEMPLATE:SEED:SEED_TEMPLATE]
+		[MATERIAL_VALUE:1]
+		[EDIBLE_VERMIN]
+		[EDIBLE_COOKED]
 	[SEED:soybean:soybeans:7:0:0:LOCAL_PLANT_MAT:SEED]
 	*** must be able to turn seeds into milk
 	[FREQUENCY:50]
