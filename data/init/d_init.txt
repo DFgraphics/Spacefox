@@ -1,5 +1,21 @@
+WARNING: Do NOT copy over the d_init.txt from an earlier version of DF.
+Always read the file carefully, including the comments.
+
+In general, you can copy savegames and tilesets from older DF
+versions, but you should not copy anything else.  You should not, under any
+circumstances, unpack a new DF on top of an older one.
+
+
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
+Always read the file carefully, including the comments.
+
+In general, you can copy savegames and tilesets from older DF
+versions, but you should not copy anything else.  You should not, under any
+circumstances, unpack a new DF on top of an older one.
+
+
+Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 [AUTOSAVE:SEASONAL]
 [AUTOBACKUP:NO]
 [AUTOSAVE_PAUSE:YES]
@@ -12,11 +28,15 @@ Set this to NO to make Dwarf Fortress remain in the saved pause state when you l
 
 [PAUSE_ON_LOAD:YES]
 
-Set this to YES if you want Dwarf Fortress to show the warning window on embark as a confirmation even if there are no issues.
+Set this to YES if you want Dwarf Fortress to show the warning window for embark site selection even if there are no issues (as a way of confirming your choice).
 
 [EMBARK_WARNING_ALWAYS:YES]
 
-You can change these to ALWAYS and NO.  More restrictive world parameter settings override these.  ALWAYS lets you see the features in the Local view during embark, and NO stops you from looking for features in the site finder (though if you really want to stop the finder, it might be better for you to generate worlds that restrict the use of this feature completely, in which case you don't need to change the settings here).
+This option controls whether or not your choice to embark has a confirmation window after you have selected any dwarves and equipment.  Valid choices are ALWAYS, IF_POINTS_REMAIN and NO.
+
+[POST_PREPARE_EMBARK_CONFIRMATION:IF_POINTS_REMAIN]
+
+You can change the option below to ALWAYS and NO.  More restrictive world parameter settings override these.  ALWAYS lets you see the features in the Local view during embark, and NO stops you from looking for features in the site finder (though if you really want to stop the finder, it might be better for you to generate worlds that restrict the use of this feature completely, in which case you don't need to change the settings here).
 
 [SHOW_EMBARK_TUNNEL:ALWAYS]
 
