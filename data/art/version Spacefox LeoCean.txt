@@ -1,0 +1,108 @@
+I could not have created this graphic pack without the help of these artists/people. Credits below updates.
+
+0_40_09 Update
+- Updated to 0_40_09
+
+0_40_08 Update
+- Updated to 0_40_08
+- Readded curses.png's fonts.
+- Touched up the dinit.txt tree/root tiles, is open to changes in the next version.
+- changed inorganic_stone_gem tiles to match Phoebus tiles as I didn't feel the current ones fit.
+- updated tileset once again as ; showed up in a workshop. :(
+v1
+- Updated tileset's so that they could be interchanged easier to fit with the trees.
+- Changed trees to match phoebus trees more or less, still not the same until TWGT is activated on dfhack. Pretty good as they are now. May need changing.
+- Changed the ; to a tool set so that shops aren't built with ; in them.. Then created new tool set since I didn't want both to be the same. -Added Hammer/ hacket idea from Mastwork Pheobus set.
+- Replaced tile 7 (rock) with tile 7 from phoebus pack. So it looked more like a rock/ rubble than a pebble.
+- Gave tile 237 a flatter top.
+- Changed tile 137. (may change it back)
+- Added tile 228 from masterwork Phoebus. (Will check to see if there's any conflicts)
+- Took idea from Masterwork Phoebus for tile 58.
+- Changed tile 40, 41 to bows so that bowyer had a image and not a ) or ( Idea taken from masterwork phoebus.
+- Changed tile 111, using Masterwork Phoebus tile idea.
+- (need to find a way to make flies more visible)
+- Changed tile 176-178 to Phoebus tiles. (tried to fix flies but even Phoebus has those problems)
+- Changed tile 219 to Mephs masterwork tile. 
+- Changed tile 126, to custom tile. I probably missed a few changes in here since I wasn't writing them all down as I did them. (it took awhile ok, longer than I expected)
+
+0_40_07 Update
+- Updated to 0_40_07
+\raw\graphics
+- Commented out afro cat and dogs. Readded Phoebus cats/dogs.
+- Updated \raw\graphics to 0_40_07. As it was missing some of the new animals that 
+  phoebus pack didn't miss.
+- graphics_phoebus_humans.txt updated
+- graphics_sphr_monsters.txt updated
+- graphics_phoebus_humanoids.txt updated
+- graphics_phoebus_goblins.txt updated
+- graphics_phoebus_animals.txt updated
+- graphics_nwkohaku_bugs.txt updated
+- graphics_nwkohaku_birds.txt updated
+- graphics_magnut_next_underground.txt updated
+- graphics_kafine_animals.txt updated
+- graphics_doren_crittermen.txt updated
+- updated afro elves
+
+\raw\objects
+-updated to Phoebus language files
+-updated plants_crops [GROWTH_PRINT:0: tiles to [GROWTH_PRINT:147: since the graphic was not being used.
+-updated plants_garden [GROWTH_PRINT:'%': and [GROWTH_PRINT:'*': to [GROWTH_PRINT:147:, then undone those changes.
+- updated plants_grasses [GRASS_TILES:'O':'o':9:248] to [GRASS_TILES:28:29:28:29].
+
+============================================================================================================================
+
+LeoCean Credits & Thanks
+
+Special thanks to Phoebus for creating his tileset and letting me use his work and of course to Spacefox for creating this beautiful tileset. Wouldn't be possible without both of you. Also a special thanks to Meph for creating mastwork and his masterwork which inspired some of the new textures in the set.
+
+
+Added Meph's new human monarchs. From Phoebus pack
+
+- Joist for his pillar tile for the tileset plus the ideas he gave me for this tileset.
+- Fricy I'm sure he contributed to the Spacefox pack I just don't know how and for his work on the MacNewbie Pack.
+- Phoebus for his tireless work on the Phoebus pack. 
+- Afrotoast43 for his new creature/elves/goblin tilesets to go with spacefox and what ever else he has done for the Spacefox pack.
+- PeridexisErrant for his starter pack. I don't know if I could play dwarf fortress without your work on the starter pack :P. 
+- All the other people who weren't mentioned because I don't know of them and thanks to all those Phoebus and Spacefox give credits to below. Thanks for your work.
+- BradUffner for his cool Modding Tool: Raw Explorer.
+
+=============================================================================================================================
+
+Phoebus Credits:
+
+Fonts:
+I'm using fonts from Phoebus, Bisasam, Phssthpok, Guybrush and Martin.
+
+Tileset:
+Ironhand is the creator of most of the textures used in the tileset. Mineral textures, ground textures, wall textures. I've also taken a few tiles from his tileset.
+RantingRodent is the source of the mineral tiles used in this set, both symbolic and graphic mineral tiles. He's also the source of the accent removal mod that I use to free more tiles to use as mineral tiles, plants and vermins.
+Hermano's tileset was the inspiration that made me start my own tileset, it's also the base of my tileset. The tiles that I'm still using from is set are many: Most trees, most vermins, most furniture & containers, most jewelry & crafts, prepared food, adventurer tile, traps, mechanisms, cloth, blade trap, anvil, thread, crossbow, hill icon, weapon rack & a few more.
+Hermano is also to thanks for his incredibly useful tileset utilities.
+krenshala for providing a custom tileset with really nice tiles.
+From DrD_AVEL's Gold Plated tileset I've taken: most plants, the walls, doors and hatches, river & road tiles, armor rack, ropes & logs, palm trees, the body part tile & the spider.
+From Darkond's Dig Deeper tileset I've taken: boulders, clothing icon, dimple cup icon, sweet pod icon, withered plant icon, tree top icon & lever icons.
+From Isenhertz's tileset I've taken the shrub icon.
+
+
+=============================================================================================================================
+December 02, 2013 credits from Spacefox himself:
+
+This project started as a modification of Phoebus' Graphic Set and as of today, still retains graphical assets from many different contributors. I've gone ahead and listed pretty much the full credits in Phoebus' Set below.
+
+- Sphr: Humans, Elves, Goblins, Kobolds, large mountain & riverlake creatures, monsters, subterranean creatures and several wildlife creatures.
+- NW_Kohaku has created most of the tiles for the new creatures in 0.34.01.
+- Jiri Petru improved and expanded Sphr's elf tileset.
+- Kafine created tiles for several new birds and sea creaturesin 0.34.01.
+- Bane has created tiles for the majority of normal animals in the game. Amongst the 49 creatures we can find dogs, crocodiles, gorillas and tigers.
+- Magnut has created the tiles for the new v0.31 underground creatures. Examples: cave blobs, cave dragon, green devourer and magma crabs.
+- Deon has expanded Sphr's creature tilesets with new tiles for most of the important races.
+
+- I want to thank AlexanderOcias the creator of Jolly Bastion for inspiring me to create my own graphical set. I'm using a slightly modified version of his Color.txt file and i've referenced his doors and walls for my own set.
+
+- PeridexisErrant for the Updated LNB which i personally use for play/mod dwarf fortress.
+
+- BradUffner for his modding tool Raw Explorer which has been are great help to me and which i recommend to any people who mod or create graphics assets for Dwarf Fortress.
+
+dwarffortresswiki.org For lots of helpful articles on colour and transparencies and tile-sets.
+
+Also special thanks to  Taffer, Frici, Obsidian soul, Deon, Meph and everyone who helped in my previous post.
