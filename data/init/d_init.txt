@@ -44,7 +44,7 @@ Use these options to remove features from the game.  Permitted values are YES an
 
 [TEMPERATURE:YES]
 [WEATHER:YES]
-[ECONOMY:NO]
+[ECONOMY:YES]
 [INVADERS:YES]
 [CAVEINS:YES]
 [ARTIFACTS:YES]
@@ -89,11 +89,11 @@ Use these to set the color of wounded body parts.  The format is <foreground col
 
 This controls the display of areas that are far below outside.  The format is SKY:<character>:<foreground color>:<background color>:<brightness>.  The <character> can be either an ASCII tile number or a character in quotes, like '#'.
 
-[SKY:178:3:0:0]
+[SKY:39:3:0:0] *was SKY:178:3:0:0
 
 As above, for inside/subterranean areas.
 
-[CHASM:250:0:0:1]
+[CHASM:0:0:0:1] *was CHASM:250:0:0:1
 
 Pillar tile, <character> as above.
 
@@ -140,10 +140,10 @@ Tiles for the parts of trees.
 [TREE_TRUNK_SLOPING_DEAD:158] *79 * 127
 [TREE_ROOTS:141] *156 *172
 [TREE_ROOTS_DEAD:141] *156 *172
-[TREE_BRANCHES:44] *172
-[TREE_BRANCHES_DEAD:44] *172
-[TREE_SMOOTH_BRANCHES:44] *255
-[TREE_SMOOTH_BRANCHES_DEAD:44] *255
+[TREE_BRANCHES:244] *44 *172
+[TREE_BRANCHES_DEAD:244] *44 *172
+[TREE_SMOOTH_BRANCHES:244] *44 *255
+[TREE_SMOOTH_BRANCHES_DEAD:244] *44 *255
 [TREE_TRUNK_PILLAR:10]
 [TREE_TRUNK_PILLAR_DEAD:10]
 [TREE_CAP_PILLAR:10]
@@ -224,18 +224,18 @@ Tiles for the parts of trees.
 [TREE_BRANCH_SEW_DEAD:194]
 [TREE_BRANCH_NSEW:199] *197
 [TREE_BRANCH_NSEW_DEAD:199] *197
-[TREE_TWIGS:44] *244
-[TREE_TWIGS_DEAD:44] *244
+[TREE_TWIGS:244] *44 *244
+[TREE_TWIGS_DEAD:244] *44*244
 [TREE_CAP_RAMP:30]
 [TREE_CAP_RAMP_DEAD:30]
-[TREE_CAP_FLOOR1:249]
-[TREE_CAP_FLOOR2:249]
-[TREE_CAP_FLOOR1_DEAD:249]
-[TREE_CAP_FLOOR2_DEAD:249]
-[TREE_CAP_FLOOR3:249]
-[TREE_CAP_FLOOR4:249]
-[TREE_CAP_FLOOR3_DEAD:249]
-[TREE_CAP_FLOOR4_DEAD:249]
+[TREE_CAP_FLOOR1:199] * 249
+[TREE_CAP_FLOOR2:206] * 249
+[TREE_CAP_FLOOR1_DEAD:199] * 249
+[TREE_CAP_FLOOR2_DEAD:206] * 249
+[TREE_CAP_FLOOR3:199] * 249
+[TREE_CAP_FLOOR4:206] * 249
+[TREE_CAP_FLOOR3_DEAD:199] * 249
+[TREE_CAP_FLOOR4_DEAD:206] * 249
 [TREE_TRUNK_INTERIOR:10]
 [TREE_TRUNK_INTERIOR_DEAD:10]
 
