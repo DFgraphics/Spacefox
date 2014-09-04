@@ -1,17 +1,40 @@
 I could not have created this graphic pack without the help of these artists/people. Credits below updates.
 
+
+
+0.40.11
+
+- Updated to 0.40.11
+- Updated material_template_default.txt
+- Updated plant_crops.txt
+- Updated plant_garden.txt
+- Updated plant_new_trees.txt
+- Updated plant_standard.txt
+- Updated init.txt
+
+0.40.10v1
+
+- Change tile 5 to 244 + vice versa. Make the changes to plant_standard and dinit to go with it. (to do with marshes on embark screen) (didn't happen)
+- Work on overides for branches. TWBT version. (in progress)
+- Work on better water tiles. (Done)
+- Work on stairs maybe. (done for twbt)
+- Update doors, pure white hinge things (done)
+- Get rid of that dark grass (it's bad) (done)
+- Merge grass graphic with the phoebus water one? May work. (done)
+
 0.40.10
 -Updatded to 0.40.10 (there are no changes between 0.40.10 and 0.40.09 in graphics packs)
 
 0.40.09 Update v2
 - Updated plant_standard.txt
-- re-edited TREE_TILE:'s ack to originals so that it doesn't look weird on embark. Those tiles shouldn't show up after embark.
+- re-edited TREE_TILE:'s back to originals so that it doesn't look weird on embark. Those tiles shouldn't show up after embark.
 - Matched Saguaro and blood thorn trees to ones that actually look like them.
 - Highwood Tree tile 79? Instead of a cup.
 - Updated plant_new_trees.txt
 - Replaced Tile 23 with old tile 5, Since it was not used. And 5 was.
 - Updated plant_standard.txt
 
+Added YOR + 2 other twbt versions + Original version updated.
 0.40.09 Update v1
 
 - creature_large_ocean Fish were 224 (should have been 160)

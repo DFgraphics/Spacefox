@@ -249,7 +249,7 @@ You can have your dwarves start/arrive without any labor types enabled here by s
 
 You can set the maximum population of your fortress here.  Keep in mind that your population must be at least 80 to get a king and 100 to obtain the current game features.
 
-[POPULATION_CAP:80]
+[POPULATION_CAP:120]
 [STRICT_POPULATION_CAP:220]
 
 This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
