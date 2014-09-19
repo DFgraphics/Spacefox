@@ -304,3 +304,7 @@ Options are REPLACE_FIRST, CENTRALIZE (between first and last), REPLACE_ALL
 [NICKNAME_DWARF:REPLACE_FIRST]
 [NICKNAME_ADVENTURE:REPLACE_FIRST]
 [NICKNAME_LEGENDS:REPLACE_FIRST]
+
+Set this number to scale how often grazing animals need to eat.  Larger numbers mean less food is necessary.  Metabolism is always set according to the 3/4ths power of size.
+
+[GRAZE_COEFFICIENT:100]
