@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:0]
 [WINDOWEDY:0]
-[FONT:Spacefox_16x16.png]
+[FONT:Spacefox_16x16_text.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:YES]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:0]
 [FULLSCREENY:0]
-[FULLFONT:Spacefox_16x16.png]
+[FULLFONT:Spacefox_16x16_text.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
@@ -64,7 +64,7 @@ On a multi-core machine none of this is very likely to matter; stick to 2D.
 
 Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
-[PRINT_MODE:2D]
+[PRINT_MODE:TWBT]
 PRINT_MODE:STANDARD needed for twbt, PRINT_MODE:2D needed for true type
 	Mode examples:
 	 PRINT_MODE:2D
@@ -93,7 +93,7 @@ You may set FPS_CAP to 0 to make it uncapped.
 
 Use this to set the maximum graphical frame refresh rate during play.
 
-[G_FPS_CAP:50]
+[G_FPS_CAP:25]
 
 On cards that support the OpenGL ARB_sync extension, turning this on can improve framerates in GPU overload conditions. It defaults to NO, as many cards that claim to support this will crash if asked to do so.
 
@@ -101,7 +101,7 @@ On cards that support the OpenGL ARB_sync extension, turning this on can improve
 
 This sets the applications vertical synchronization behavior.  Changing this to YES can impact your FPS if your G_FPS is high. ARB_SYNC is a better option, if your system supports it.
 
-[VSYNC:NO]
+[VSYNC:YES]
 
 Change this to NEAREST if you want the texture values to use the nearest pixel without averaging.
 Change this to LINEAR if you want the texture values to be averaged over the adjacent pixels.

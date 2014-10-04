@@ -1,0 +1,237 @@
+[TILESET:Vanilla DF - 24x - Items.png:Vanilla DF - 24x - Items.png:2] 
+#[OVERRIDE:Tile:Kind:Id:Type:Subtype:Tileset:NewTile]
+
+[OVERRIDE:47:I:AMMO:AMMO:0:2:0]
+[OVERRIDE:47:I:AMMO:AMMO:1:2:1]
+[OVERRIDE:47:I:AMMO:AMMO:2:2:2]
+
+[OVERRIDE:91:I:ARMOR:ARMOR:0:2:3]
+[OVERRIDE:91:I:ARMOR:ARMOR:1:2:4]
+[OVERRIDE:91:I:ARMOR:ARMOR:2:2:5]
+[OVERRIDE:91:I:ARMOR:ARMOR:3:2:6]
+[OVERRIDE:91:I:ARMOR:ARMOR:4:2:7]
+[OVERRIDE:91:I:ARMOR:ARMOR:5:2:8]
+[OVERRIDE:91:I:ARMOR:ARMOR:6:2:9]
+[OVERRIDE:91:I:ARMOR:ARMOR:7:2:10]
+[OVERRIDE:91:I:ARMOR:ARMOR:8:2:11]
+[OVERRIDE:91:I:ARMOR:ARMOR:9:2:12]
+[OVERRIDE:91:I:ARMOR:ARMOR:10:2:13]
+[OVERRIDE:91:I:ARMOR:ARMOR:11:2:14]
+
+[OVERRIDE:37:I:FOOD:FOOD:0:2:15]
+[OVERRIDE:37:I:FOOD:FOOD:1:2:16]
+[OVERRIDE:37:I:FOOD:FOOD:2:2:17]
+
+[OVERRIDE:91:I:GLOVES:GLOVES:0:2:18]
+[OVERRIDE:91:I:GLOVES:GLOVES:1:2:19]
+[OVERRIDE:91:I:GLOVES:GLOVES:2:2:20]
+
+[OVERRIDE:91:I:HELM:HELM:0:2:21]
+[OVERRIDE:91:I:HELM:HELM:1:2:22]
+[OVERRIDE:91:I:HELM:HELM:2:2:23]
+[OVERRIDE:91:I:HELM:HELM:3:2:24]
+[OVERRIDE:91:I:HELM:HELM:4:2:25]
+[OVERRIDE:91:I:HELM:HELM:5:2:26]
+[OVERRIDE:91:I:HELM:HELM:6:2:27]
+[OVERRIDE:91:I:HELM:HELM:7:2:28]
+
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:0:2:29]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:1:2:30]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:2:2:31]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:3:2:32]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:4:2:33]
+
+[OVERRIDE:91:I:PANTS:PANTS:0:2:34]
+[OVERRIDE:91:I:PANTS:PANTS:1:2:35]
+[OVERRIDE:91:I:PANTS:PANTS:2:2:36]
+[OVERRIDE:91:I:PANTS:PANTS:3:2:37]
+[OVERRIDE:91:I:PANTS:PANTS:4:2:38]
+[OVERRIDE:91:I:PANTS:PANTS:5:2:39]
+[OVERRIDE:91:I:PANTS:PANTS:6:2:40]
+[OVERRIDE:91:I:PANTS:PANTS:7:2:41]
+[OVERRIDE:91:I:PANTS:PANTS:8:2:42]
+
+[OVERRIDE:91:I:SHIELD:SHIELD:0:2:43]
+[OVERRIDE:91:I:SHIELD:SHIELD:1:2:44]
+
+[OVERRIDE:91:I:SHOES:SHOES:0:2:45]
+[OVERRIDE:91:I:SHOES:SHOES:1:2:46]
+[OVERRIDE:91:I:SHOES:SHOES:2:2:47]
+[OVERRIDE:91:I:SHOES:SHOES:3:2:48]
+[OVERRIDE:91:I:SHOES:SHOES:4:2:49]
+[OVERRIDE:91:I:SHOES:SHOES:5:2:50]
+
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:0:2:51]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:1:2:52]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:2:2:53]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:3:2:54]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:4:2:55]
+
+[OVERRIDE:47:I:WEAPON:WEAPON:0:2:56]
+[OVERRIDE:47:I:WEAPON:WEAPON:1:2:57]
+[OVERRIDE:47:I:WEAPON:WEAPON:2:2:58]
+[OVERRIDE:47:I:WEAPON:WEAPON:3:2:59]
+[OVERRIDE:47:I:WEAPON:WEAPON:4:2:60]
+[OVERRIDE:47:I:WEAPON:WEAPON:5:2:61]
+[OVERRIDE:47:I:WEAPON:WEAPON:6:2:62]
+[OVERRIDE:47:I:WEAPON:WEAPON:7:2:63]
+[OVERRIDE:47:I:WEAPON:WEAPON:8:2:64]
+[OVERRIDE:47:I:WEAPON:WEAPON:9:2:65]
+[OVERRIDE:47:I:WEAPON:WEAPON:10:2:66]
+[OVERRIDE:47:I:WEAPON:WEAPON:11:2:67]
+[OVERRIDE:47:I:WEAPON:WEAPON:12:2:68]
+[OVERRIDE:47:I:WEAPON:WEAPON:13:2:69]
+[OVERRIDE:47:I:WEAPON:WEAPON:14:2:70]
+[OVERRIDE:47:I:WEAPON:WEAPON:15:2:71]
+[OVERRIDE:47:I:WEAPON:WEAPON:16:2:72]
+[OVERRIDE:47:I:WEAPON:WEAPON:17:2:73]
+[OVERRIDE:47:I:WEAPON:WEAPON:18:2:74]
+[OVERRIDE:47:I:WEAPON:WEAPON:19:2:75]
+[OVERRIDE:47:I:WEAPON:WEAPON:20:2:76]
+[OVERRIDE:47:I:WEAPON:WEAPON:21:2:77]
+[OVERRIDE:47:I:WEAPON:WEAPON:22:2:78]
+[OVERRIDE:47:I:WEAPON:WEAPON:23:2:79]
+
+#[OVERRIDE:145:I:TOY:TOY:0+n:2:tilenumber]
+
+[TILESET:Spacefox_16x16LeoCeanOverrides.png:Spacefox_16x16LeoCeanOverrides.png:3]
+
+#Alt 71 or 73 in tileset :88]
+[OVERRIDE:88:T:ConstructedStairUD:3:88] 
+[OVERRIDE:88:T:FeatureStairUD:3:88]
+[OVERRIDE:88:T:FrozenStairUD:3:88]
+[OVERRIDE:88:T:Grass1StairUD:3:88]
+[OVERRIDE:88:T:Grass2StairUD:3:88]
+[OVERRIDE:88:T:LavaStairUD:3:88]
+[OVERRIDE:88:T:MineralStairUD:3:88]
+[OVERRIDE:88:T:SoilStairUD:3:88]
+[OVERRIDE:88:T:StoneStairUD:3:88]
+[OVERRIDE:88:T:UnderworldGateStairUD:3:88]
+
+
+[OVERRIDE:240:I:BAR:BAR::3:255]               #All Bars (comment out to not use)
+#[OVERRIDE:22:I:WOOD:WOOD::3:1]               #wood (delete comment to use, Can switch between :1] and :0])
+[OVERRIDE:237:I:ORTHOPEDIC_CAST:ORTHOPEDIC_CAST::3:10]          #ORTHOPEDIC_CAST ORTHOPEDIC_CAST
+[OVERRIDE:237:I:THREAD:THREAD::3:22]          #THREAD #DONE
+#[OVERRIDE:145:I:TOY:TOY::3:18]               #TOY TOY-bear #DONE (delete comment if you want to use it, may need to add this :TOY:0+n:)
+[OVERRIDE:248:I:EGG:EGG::3:11]                #EGG EGG #DONE
+#[OVERRIDE:146:I:CHEST:CHEST::3:4]            #CHEST CHEST (remove first comment to enable)
+[OVERRIDE:250:I:SEEDS:SEEDS::3:9]             #SEEDS SEEDS #DONE
+#[OVERRIDE:177:I:VERMIN:VERMIN::3:15]         #VERMIN VERMIN  (not yet in this version as there are more than one type, may add them next time but this only accounts for captured ones)
+[OVERRIDE:146:I:QUIVER:QUIVER::3:36]          #QUIVER QUIVER #DONE (mostly made by LeoCean)
+[OVERRIDE:159:I:SPLINT:SPLINT::3:7]           #SPLINT SPLINT #DONE (mostly made by LeoCean)
+[OVERRIDE:45:I:SCEPTER:SCEPTER::3:49]         #SCEPTER SCEPTER #DONE (freeuse graphic)
+#[OVERRIDE:20:I:GOBLET:GOBLET::3:21]          #GOBLET GOBLET (no idea which tile it originates, could be the correct one atm, just don't know)(ironhand graphic)
+#                                             #GEM GEM? Likely not replacing
+[OVERRIDE:173:I:FLASK:FLASK::3:2]             #FLASK FLASK #DONE (ironhand graphic edited)
+#                                             #FIGURINE FIGURINE
+[OVERRIDE:194:I:CRUTCH:CRUTCH::3:20]          #CRUTCH CRUTCH #DONE (mostly made by LeoCean)
+[OVERRIDE:230:I:CROWN:CROWN::3:6]             #CROWN CROWN #DONEfreeuseone
+#[OVERRIDE:#:I:CHEESE:CHEESE::3:52]            #CHEESE CHEESE NEED (can't find which tile it uses, nor do I have a tile for it)
+#                                             #CATAPULTPARTS CATAPULTPARTS
+#                                             #BRACELET BRACELET
+#                                             #BOX BOX  donish
+[OVERRIDE:88:I:BIN:BIN::3:27]                 #BIN BIN #DONE (ironhand graphic edited)
+[OVERRIDE:8:I:BOOK:BOOK::3:39]                #BOOK BOOK (39/40) #should be the right tile (mostly made by LeoCean)
+[OVERRIDE:146:I:BACKPACK:BACKPACK::3:35]      #BACKPACK BACKPACK (made by LeoCean)
+#                                             #ANIMALTRAP ANIMALTRAP doneish5
+[OVERRIDE:15:I:ANY_WEBS:::3:13]               #ANY_WEBS #don't know if this works 
+#                                             #TABLE TABLE sametile
+[OVERRIDE:246:I:DRINK:DRINK::3:51]            #DRINK DRINK done (freeusegraphic) (don't know the graphic it uses(barrel maybe)
+#                                             #BALLISTAARROWHEAD BALLISTAARROWHEAD
+#                                             #BALLISTAPARTS BALLISTAPARTS
+[OVERRIDE:21:I:CHAIN:CHAIN::3:3]              #CHAIN CHAIN #Should be the same in any graphics set. (ironhand graphic edited)
+[OVERRIDE:21:B:CHAIN:Chain::3:3]              #CHAIN Chain
+
+[OVERRIDE:177:I:WINDOW:WINDOW::3:42]          #WINDOW WINDOW (mostly made by LeoCean) (58 or 42)
+#[OVERRIDE:177:I:WINDOW:WINDOW::3:58]         #WINDOW WINDOW Alternate
+[OVERRIDE:177:B:WINDOW_ANY:WindowGem::3:57]
+[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:42]
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:58]#WINDOWGlass Alternate
+
+
+
+#TILE 
+#Waterfall
+#Driftwood
+#Fire
+#Campfire
+#BurningTreeBranches, BurningTreeCapFloor, BurningTreeCapRamp, BurningTreeCapWall, BurningTreeTrunk, BurningTreeTwigs, 
+
+
+
+
+
+[OVERRIDE:186:B:DOOR:Door::3:197]#wood door
+[OVERRIDE:186:I:DOOR:DOOR::3:197]#wood door
+[OVERRIDE:240:B:DOOR:Door::3:198]#metal door
+[OVERRIDE:240:I:DOOR:DOOR::3:198]#metal door
+#[OVERRIDE:186:B:DOOR:Door::TILESET:197] (don't use this or the one below, it's an example)
+#[OVERRIDE:186:I:DOOR:DOOR::TILESET:197]
+
+
+#May have to check,TREE ROOTS, CHECK \data\init d_init.txt TO MAKE SURE YOUR VERSION IS COMPATIBLE WITH THESE ONES, not all tilesets have the same thing set as roots#
+
+#Spacefox LeoCean, Afro will be different#
+[OVERRIDE:141:T:TreeDeadRoots:3:55]
+[OVERRIDE:127:T:TreeDeadRootSloping:3:56]
+[OVERRIDE:141:T:TreeRoots:3:66]
+[OVERRIDE:127:T:TreeRootSloping:3:67]
+
+#Phoebus, may be different#
+#[OVERRIDE:133:T:TreeDeadRoots:3:55]
+#[OVERRIDE:158:T:TreeDeadRootSloping:3:56]
+#[OVERRIDE:133:T:TreeRoots:3:66]
+#[OVERRIDE:158:T:TreeRootSloping:3:67]
+
+#Ironhand, these could be different. Matched them with fricy's buid#
+#[OVERRIDE:156:T:TreeDeadRoots:3:55]
+#[OVERRIDE:127:T:TreeDeadRootSloping:3:56]
+#[OVERRIDE:156:T:TreeRoots:3:66]
+#[OVERRIDE:127:T:TreeRootSloping:3:67]
+
+
+
+
+
+
+
+
+
+
+
+
+
+#below don't work
+
+#[OVERRIDE:240:I:BAR:BAR:"iron_bars":3:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:"IRON_BAR":3:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:IRON_BAR:3:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:IRON_BARS:3:241] #iron
+
+#[OVERRIDE:240:I:BAR:BAR:"gold bars":3:242] #gold
+#[OVERRIDE:240:I:BAR:BAR:SILVER:3:243] #silver
+#[OVERRIDE:240:I:BAR:BAR:COPPER:3:244] #copper
+
+#[OVERRIDE:240:I:BAR:BAR:0:3:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:1:3:242] #gold
+#[OVERRIDE:240:I:BAR:BAR:2:3:243] #silver
+#[OVERRIDE:240:I:BAR:BAR:3:3:244] #copper
+#[OVERRIDE:240:I:BAR:BAR:4:3:245] #zinc
+#[OVERRIDE:240:I:BAR:BAR:5:3:246] #bronze	
+#[OVERRIDE:240:I:BAR:BAR:6:3:247] #brass
+#[OVERRIDE:240:I:BAR:BAR:7:3:248] #steel
+#[OVERRIDE:240:I:BAR:BAR:8:3:249] #pig iron
+#[OVERRIDE:240:I:BAR:BAR:9:3:250] #electrum
+#[OVERRIDE:240:I:BAR:BAR:10:3:251] #tin
+#[OVERRIDE:240:I:BAR:BAR:11:3:252] #fine pewter
+#[OVERRIDE:240:I:BAR:BAR:12:3:253] #trifle pewter
+#[OVERRIDE:240:I:BAR:BAR:13:3:254] #lay pewter
+#[OVERRIDE:240:I:BAR:BAR:14:3:255] #lead
+#[OVERRIDE:240:I:BAR:BAR:15:3:224] #nickel
+#[OVERRIDE:240:I:BAR:BAR:16:3:225] #billion
+#[OVERRIDE:240:I:BAR:BAR:17:3:226] #sterling silver
+#[OVERRIDE:240:I:BAR:BAR:18:3:227] #black bronze
+#[OVERRIDE:240:I:BAR:BAR:19:3:228] #rose gold
+#[OVERRIDE:240:I:BAR:BAR:20:3:229] #bismuth
+#[OVERRIDE:240:I:BAR:BAR:21:3:230] #bismuth bronze

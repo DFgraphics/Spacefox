@@ -1,0 +1,167 @@
+Version/Changelog/Credits
+
+v003
+
+- Added Roots to tile 55 (dead)/56 (living)
+- Added phoebus up/down stair made by superradish 
+- Added second ironhand bin/box tile 54.
+- Added Tilelist/Credits per tile
+- Added More Root tiles. Tile 66/67
+
+v002
+
+- Commented out flask, since it's a bag in ironhand
+
+v001
+
+- Too lazy to do this atm. Mainly stands as a version identifier at the moment. 
+
+
+
+
+
+Credits:
+
+
+[tile:0       Log- Zhukov5, edited by LeoCean to be 16x16
+[tile:1       Log
+[tile:2       Bag/flask- ironhand
+[tile:3      chain- ironhand edited      
+[tile:4       Chest- zelda_16x16Neverlight
+[tile:5      trap
+[tile:6      crown- freeware http://www.softicons.com/object-icons/royal-icons-by-artua.com/crown-icon
+[tile:7      Splint- LeoCean 
+[tile:8      Hive- Internet picture scaled down.     
+[tile:9      Seeds       
+[tile:10     Orthapedic cast- LeoCean      
+[tile:11     Egg
+[tile:12     Bamboo       
+[tile:13     Spider Web       
+[tile:14     Road/brick       
+[tile:15     Rat/Vermin- Zhukov5       
+[tile:16     Toolset- Spacefox base, enhanced by LeoCean       
+[tile:17     Toolset- Spacefox base, enhanced by LeoCean         
+[tile:18     Teddy Bear- gold_plated_bmpFalldog,goldplatedtileset   
+[tile:19     Cage- Spacefox       
+[tile:20     Crutch- Leocean       
+[tile:21     Goblet- Ironhand       
+[tile:22     Thread-  gold_plated_bmpFalldog,goldplatedtileset
+[tile:23     Tree atm, spacefox       
+[tile:24     Hive, internet picture + Spacefox Bee       
+[tile:25     Something- Spacefox       
+[tile:26     Blank background    
+[tile:27     Bin- Ironhand 
+[tile:28     Plant- other_square_16x16 Gulliman tileset       
+[tile:29     sword table- zelda_16x16Neverlight  
+[tile:30     plant- zelda_16x16Neverlight
+[tile:31     plant- zelda_16x16Neverlight
+[tile:32     Toolset- Spacefox base, enhanced by LeoCean       
+[tile:33     Toolset- Spacefox base, enhanced by LeoCean         
+[tile:34     Brick/Road 
+[tile:35     Backpack- LeoCean   
+[tile:36     Quiver- LeoCean   
+[tile:37     Branch/Leaves       
+[tile:38     Windmill/watermill- From somewhere........... ... .......   
+[tile:39     Books- LeoCean  
+[tile:40     Book
+[tile:41     Trap- Ironhand edited
+[tile:42     Window Plain- LeoCean
+[tile:43     Cage- Internet 
+[tile:44     Up Stair Ironhand edited 
+[tile:45     Plant Ironhand
+[tile:46     Link- Internet
+[tile:47     Chain- Ironhand
+[tile:48     Crown- freeware http://www.softicons.com/object-icons/royal-icons-by-artua.com/crown-icon
+[tile:49     Scepter 
+[tile:50     Plant- Ironhand Edited
+[tile:51     Beer/Drink
+[tile:52     Cheese- LeoCean rough drawing
+[tile:53       
+[tile:54     Bin- Ironhand
+[tile:55     Dead root- LeoCean/Spacefox        
+[tile:56     Root- LeoCean/Spacefox   
+[tile:57     Window Gem- LeoCean  
+[tile:58     Window- LeoCean
+[tile:59     Toolset- Spacefox base/LeoCean 
+[tile:60     Upstair- Spacefox
+[tile:61     Bag- Ironhand  
+[tile:62     Downstair- Spacefox  
+[tile:63       
+[tile:64     Werid dude- Spacefox 
+[tile:65     Toolset Farming- Spacefox base/LeoCean  
+[tile:66     Root 
+[tile:67     Root  
+[tile:68       
+[tile:69       
+[tile:70       
+[tile:71     Updown Stairs- Ironhand base/ LeoCean version 1  
+[tile:72       
+[tile:73     Updown Stairs- Ironhand base/ LeoCean version 2   
+[tile:74       
+[tile:75       
+[tile:76     Upstairs- Ironhand  
+[tile:77     
+[tile:78     Downstairs- Ironhand    
+[tile:79     Tree Stump- Spacefox 
+[tile:80       
+[tile:81       
+[tile:82       
+[tile:83      
+[tile:84       
+[tile:85       
+[tile:86       
+[tile:87     Up/Down Stair- Phoebus base/made by superradish 
+[tile:88     Up/Down Stair- Spacefox base/made by LeoCean
+[tile:89       
+[tile:90       
+[tile:91       
+[tile:92       
+[tile:93       
+[tile:94       
+[tile:95       
+[tile:96-105 Tracks- MLC 16x16 - Graphics
+[tile:97       
+[tile:98       
+[tile:99       
+[tile:100 
+
+   
+[tile:       Ballista/Arrows- Ironhand  
+[tile:       
+[tile:       
+[tile:
+
+       
+[tile:227    Dresser- zelda_16x16Neverlight 
+[tile:228    Dresser- hermano_min or other_square_16x16 Gulliman tileset
+[tile:       
+[tile:       
+[tile:       
+[tile:       
+[tile:       
+[tile:       
+[tile:       
+
+
+
+
+[tile:255    Bar- TimCustom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

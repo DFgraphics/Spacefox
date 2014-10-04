@@ -263,7 +263,7 @@ Use the specific seed cap to set the maximum number of seeds of each kind genera
 
 If you don't like the ,.`' ground, try setting this to NO.  The ground will turn into periods only.
 
-[VARIED_GROUND_TILES:NO]
+[VARIED_GROUND_TILES:YES]
 
 If you'd like your engravings to start off looking the same (you can toggle them on individual later), set this to YES.
 
