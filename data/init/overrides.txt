@@ -149,6 +149,38 @@
 [OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:42]
 #[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:58]#WINDOWGlass Alternate
 
+#Coffins only in override
+[OVERRIDE:48:I:COFFIN:COFFIN::3:48]			#Coffin in stockpile
+[OVERRIDE:48:B:COFFIN:Coffin::3:48]			#Coffin built
+
+#Additional workshop sprites
+[OVERRIDE:61:B:WORKSHOP_CARPENTER:Workshop::3:1]		#Wood sprite
+[OVERRIDE:34:B:WORKSHOP_CARPENTER:Workshop::3:38:8:9]	#Chainsaw sprite -grey
+[OVERRIDE:231:B:WORKSHOP_CARPENTER:Workshop::3:79:7:]	#Tree stump sprite -brown
+
+[OVERRIDE:65:B:WORKSHOP_FARMER:Workshop::3:65]			#Farmer workshop toolset
+[OVERRIDE:79:B::Workshop::3:79]							#Tree stump - farmer
+[OVERRIDE:111:B:WORKSHOP_STILL:Workshop::3:114]			#Barrel sprite - Still
+[OVERRIDE:111:B:WORKSHOP_MASON:Workshop::3:65]			#2nd Toolset sprite - masons
+[OVERRIDE:79:B:TRADE_DEPOT:TradeDepot::3:79]			#Trade depo corners
+
+#Colorcode and distinguish furnaces
+[OVERRIDE:111:B:FURNACE_SMELTER_MAGMA:Furnace::3:152:5:16]			#Cart sprite red - MagmaSmelter
+[OVERRIDE:111:B:FURNACE_SMELTER_ANY:Furnace::3:152:16:]				#Cart sprite - Smelter
+[OVERRIDE:61:B:FURNACE_SMELTER_ANY:Furnace::3:255:16:]				#Bar sprite - Smelter
+[OVERRIDE:93:B:FURNACE_SMELTER_ANY:Furnace::3:59:16:]				#Change toolset sprite
+
+[OVERRIDE:111:B:FURNACE_GLASS_ANY:Furnace::3:111:5:9]		#Barrel sprite -red
+[OVERRIDE:61:B:FURNACE_GLASS_ANY:Furnace::3:21:16:]			#Glass sprite
+[OVERRIDE:93:B:FURNACE_GLASS_ANY:Furnace::3:123:16:]		#Change toolset sprite
+
+[OVERRIDE:111:B:FURNACE_KILN_ANY:Furnace::3:111:13:9]		#Barrel sprite -orange
+[OVERRIDE:61:B:FURNACE_KILN_ANY:Furnace::3:153:16:5]		#Pot sprite -red
+[OVERRIDE:93:B:FURNACE_KILN_ANY:Furnace::3:65:16:]			#Change toolset sprite
+
+#Woodburner
+[OVERRIDE:111:B:FURNACE_WOOD:Furnace::3:1]		#Wood sprite
+[OVERRIDE:61:B:FURNACE_WOOD:Furnace::3:0:9]		#Charcoal log sprite
 
 
 #TILE 
@@ -157,9 +189,6 @@
 #Fire
 #Campfire
 #BurningTreeBranches, BurningTreeCapFloor, BurningTreeCapRamp, BurningTreeCapWall, BurningTreeTrunk, BurningTreeTwigs, 
-
-
-
 
 
 [OVERRIDE:186:B:DOOR:Door::3:197]#wood door
@@ -189,18 +218,6 @@
 #[OVERRIDE:127:T:TreeDeadRootSloping:3:56]
 #[OVERRIDE:156:T:TreeRoots:3:66]
 #[OVERRIDE:127:T:TreeRootSloping:3:67]
-
-
-
-
-
-
-
-
-
-
-
-
 
 #below don't work
 

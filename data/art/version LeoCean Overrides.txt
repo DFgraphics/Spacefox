@@ -1,5 +1,11 @@
 Version/Changelog/Credits
 
+v004 by fricy
+
+- revert tile 0-7,A,o,O to original numbers/letters in Spacefox_16x16.png
+- add coffin tile to Spacefox_16x16LeoCeanOverrides.png
+- Add overrides for Coffin and workshops/furnaces
+
 v003
 
 - Added Roots to tile 55 (dead)/56 (living)
@@ -71,7 +77,7 @@ Credits:
 [tile:45     Plant Ironhand
 [tile:46     Link- Internet
 [tile:47     Chain- Ironhand
-[tile:48     Crown- freeware http://www.softicons.com/object-icons/royal-icons-by-artua.com/crown-icon
+[tile:48     Coffin - Spacefox base
 [tile:49     Scepter 
 [tile:50     Plant- Ironhand Edited
 [tile:51     Beer/Drink
