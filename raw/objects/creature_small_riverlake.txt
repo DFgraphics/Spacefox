@@ -3,7 +3,7 @@ creature_small_riverlake
 [OBJECT:CREATURE]
 
 [CREATURE:FISH_LUNGFISH]
-	[DESCRIPTION:A small fish which can walk on the land and breath air.  It burrows in the mud when things get dry.]
+	[DESCRIPTION:A small fish which can walk on the land and breathe air.  It burrows in the mud when things get dry.]
 	[NAME:lungfish:lungfish:lungfish]
 	[CASTE_NAME:lungfish:lungfish:lungfish]
 	[CREATURE_TILE:160][COLOR:6:0:0]
