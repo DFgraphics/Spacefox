@@ -1,4 +1,4 @@
-[TILESET:Vanilla DF - 24x - Items.png:Vanilla DF - 24x - Items.png:2] 
+[TILESET:_VanillaDF-24x-Items.png:_VanillaDF-24x-Items.png:2]
 #[OVERRIDE:Tile:Kind:Id:Type:Subtype:Tileset:NewTile]
 
 [OVERRIDE:47:I:AMMO:AMMO:0:2:0]
@@ -94,10 +94,10 @@
 
 #[OVERRIDE:145:I:TOY:TOY:0+n:2:tilenumber]
 
-[TILESET:Spacefox_16x16LeoCeanOverrides.png:Spacefox_16x16LeoCeanOverrides.png:3]
+[TILESET:_Spacefox_16x16LeoCeanOverrides.png:_Spacefox_16x16LeoCeanOverrides.png:3]
 
 #Alt 71 or 73 in tileset :88]
-[OVERRIDE:88:T:ConstructedStairUD:3:88] 
+[OVERRIDE:88:T:ConstructedStairUD:3:88]
 [OVERRIDE:88:T:FeatureStairUD:3:88]
 [OVERRIDE:88:T:FrozenStairUD:3:88]
 [OVERRIDE:88:T:Grass1StairUD:3:88]
@@ -135,7 +135,7 @@
 [OVERRIDE:8:I:BOOK:BOOK::3:39]                #BOOK BOOK (39/40) #should be the right tile (mostly made by LeoCean)
 [OVERRIDE:146:I:BACKPACK:BACKPACK::3:35]      #BACKPACK BACKPACK (made by LeoCean)
 #                                             #ANIMALTRAP ANIMALTRAP doneish5
-[OVERRIDE:15:I:ANY_WEBS:::3:13]               #ANY_WEBS #don't know if this works 
+[OVERRIDE:15:I:ANY_WEBS:::3:13]               #ANY_WEBS #don't know if this works
 #                                             #TABLE TABLE sametile
 [OVERRIDE:246:I:DRINK:DRINK::3:51]            #DRINK DRINK done (freeusegraphic) (don't know the graphic it uses(barrel maybe)
 #                                             #BALLISTAARROWHEAD BALLISTAARROWHEAD
@@ -183,12 +183,12 @@
 [OVERRIDE:61:B:FURNACE_WOOD:Furnace::3:0:9]		#Charcoal log sprite
 
 
-#TILE 
+#TILE
 #Waterfall
 #Driftwood
 #Fire
 #Campfire
-#BurningTreeBranches, BurningTreeCapFloor, BurningTreeCapRamp, BurningTreeCapWall, BurningTreeTrunk, BurningTreeTwigs, 
+#BurningTreeBranches, BurningTreeCapFloor, BurningTreeCapRamp, BurningTreeCapWall, BurningTreeTrunk, BurningTreeTwigs,
 
 
 [OVERRIDE:186:B:DOOR:Door::3:197]#wood door
@@ -235,7 +235,7 @@
 #[OVERRIDE:240:I:BAR:BAR:2:3:243] #silver
 #[OVERRIDE:240:I:BAR:BAR:3:3:244] #copper
 #[OVERRIDE:240:I:BAR:BAR:4:3:245] #zinc
-#[OVERRIDE:240:I:BAR:BAR:5:3:246] #bronze	
+#[OVERRIDE:240:I:BAR:BAR:5:3:246] #bronze
 #[OVERRIDE:240:I:BAR:BAR:6:3:247] #brass
 #[OVERRIDE:240:I:BAR:BAR:7:3:248] #steel
 #[OVERRIDE:240:I:BAR:BAR:8:3:249] #pig iron
