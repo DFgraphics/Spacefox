@@ -1,5 +1,30 @@
 Version/Changelog/Credits
 
+V007
+
+- Fixed minecarts now they use wipitems 159. Were too black before, from original tileset.
+- Fixed traintracks, they didn't have the right graphics. Don't know how it was missed for years.
+- Edited stockpile graphic.
+- Walls still need to be changed. (Work in progress)
+- Smoothfloors disabled (new graphic as it didn't work as intended)
+
+V006 Lots of stuff..
+
+- Inlcuded parts of Dorens DF Phoebus Overrides and 
+ WIPSet by utkonos Overrides.
+- Added some stuff made by dibujor. 
+- Workshops/train tracks, most items should all be included.
+- May have to make a 24x24 Spacefox tileset :( (albeit most of the tileset
+ is already made in 24x24 but the animals wouldn't be..) as 16x16 is quite small.
+-  Fortifications, made by dibujor, and dragonplatino (modified them)
+- Pillars.
+
+V005 Fortifications, more workshop changes.
+
+- Fortifications, inprogress.
+- Workshops, inprogress.
+
+
 v004 by fricy
 
 - revert tile 0-7,A,o,O to original numbers/letters in Spacefox_16x16.png
@@ -77,7 +102,7 @@ Credits:
 [tile:45     Plant Ironhand
 [tile:46     Link- Internet
 [tile:47     Chain- Ironhand
-[tile:48     Coffin - Spacefox base
+[tile:48     Crown- freeware http://www.softicons.com/object-icons/royal-icons-by-artua.com/crown-icon
 [tile:49     Scepter 
 [tile:50     Plant- Ironhand Edited
 [tile:51     Beer/Drink

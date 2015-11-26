@@ -1,188 +1,189 @@
-[TILESET:_VanillaDF-24x-Items.png:_VanillaDF-24x-Items.png:2]
+[TILESET:_VanillaDF-24x-Items.png:_VanillaDF-24x-Items.png:items24]
 #[OVERRIDE:Tile:Kind:Id:Type:Subtype:Tileset:NewTile]
 
-[OVERRIDE:47:I:AMMO:AMMO:0:2:0]
-[OVERRIDE:47:I:AMMO:AMMO:1:2:1]
-[OVERRIDE:47:I:AMMO:AMMO:2:2:2]
+[OVERRIDE:47:I:AMMO:AMMO:0:items24:0]
+[OVERRIDE:47:I:AMMO:AMMO:1:items24:1]
+[OVERRIDE:47:I:AMMO:AMMO:2:items24:2]
 
-[OVERRIDE:91:I:ARMOR:ARMOR:0:2:3]
-[OVERRIDE:91:I:ARMOR:ARMOR:1:2:4]
-[OVERRIDE:91:I:ARMOR:ARMOR:2:2:5]
-[OVERRIDE:91:I:ARMOR:ARMOR:3:2:6]
-[OVERRIDE:91:I:ARMOR:ARMOR:4:2:7]
-[OVERRIDE:91:I:ARMOR:ARMOR:5:2:8]
-[OVERRIDE:91:I:ARMOR:ARMOR:6:2:9]
-[OVERRIDE:91:I:ARMOR:ARMOR:7:2:10]
-[OVERRIDE:91:I:ARMOR:ARMOR:8:2:11]
-[OVERRIDE:91:I:ARMOR:ARMOR:9:2:12]
-[OVERRIDE:91:I:ARMOR:ARMOR:10:2:13]
-[OVERRIDE:91:I:ARMOR:ARMOR:11:2:14]
+[OVERRIDE:91:I:ARMOR:ARMOR:0:items24:3]
+[OVERRIDE:91:I:ARMOR:ARMOR:1:items24:4]
+[OVERRIDE:91:I:ARMOR:ARMOR:2:items24:5]
+[OVERRIDE:91:I:ARMOR:ARMOR:3:items24:6]
+[OVERRIDE:91:I:ARMOR:ARMOR:4:items24:7]
+[OVERRIDE:91:I:ARMOR:ARMOR:5:items24:8]
+[OVERRIDE:91:I:ARMOR:ARMOR:6:items24:9]
+[OVERRIDE:91:I:ARMOR:ARMOR:7:items24:10]
+[OVERRIDE:91:I:ARMOR:ARMOR:8:items24:11]
+[OVERRIDE:91:I:ARMOR:ARMOR:9:items24:12]
+[OVERRIDE:91:I:ARMOR:ARMOR:10:items24:13]
+[OVERRIDE:91:I:ARMOR:ARMOR:11:items24:14]
 
-[OVERRIDE:37:I:FOOD:FOOD:0:2:15]
-[OVERRIDE:37:I:FOOD:FOOD:1:2:16]
-[OVERRIDE:37:I:FOOD:FOOD:2:2:17]
+[OVERRIDE:37:I:FOOD:FOOD:0:items24:15]
+[OVERRIDE:37:I:FOOD:FOOD:1:items24:16]
+[OVERRIDE:37:I:FOOD:FOOD:2:items24:17]
 
-[OVERRIDE:91:I:GLOVES:GLOVES:0:2:18]
-[OVERRIDE:91:I:GLOVES:GLOVES:1:2:19]
-[OVERRIDE:91:I:GLOVES:GLOVES:2:2:20]
+[OVERRIDE:91:I:GLOVES:GLOVES:0:items24:18]
+[OVERRIDE:91:I:GLOVES:GLOVES:1:items24:19]
+[OVERRIDE:91:I:GLOVES:GLOVES:2:items24:20]
 
-[OVERRIDE:91:I:HELM:HELM:0:2:21]
-[OVERRIDE:91:I:HELM:HELM:1:2:22]
-[OVERRIDE:91:I:HELM:HELM:2:2:23]
-[OVERRIDE:91:I:HELM:HELM:3:2:24]
-[OVERRIDE:91:I:HELM:HELM:4:2:25]
-[OVERRIDE:91:I:HELM:HELM:5:2:26]
-[OVERRIDE:91:I:HELM:HELM:6:2:27]
-[OVERRIDE:91:I:HELM:HELM:7:2:28]
+[OVERRIDE:91:I:HELM:HELM:0:items24:21]
+[OVERRIDE:91:I:HELM:HELM:1:items24:22]
+[OVERRIDE:91:I:HELM:HELM:2:items24:23]
+[OVERRIDE:91:I:HELM:HELM:3:items24:24]
+[OVERRIDE:91:I:HELM:HELM:4:items24:25]
+[OVERRIDE:91:I:HELM:HELM:5:items24:26]
+[OVERRIDE:91:I:HELM:HELM:6:items24:27]
+[OVERRIDE:91:I:HELM:HELM:7:items24:28]
 
-[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:0:2:29]
-[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:1:2:30]
-[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:2:2:31]
-[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:3:2:32]
-[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:4:2:33]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:0:items24:29]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:1:items24:30]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:2:items24:31]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:3:items24:32]
+[OVERRIDE:168:I:INSTRUMENT:INSTRUMENT:4:items24:33]
 
-[OVERRIDE:91:I:PANTS:PANTS:0:2:34]
-[OVERRIDE:91:I:PANTS:PANTS:1:2:35]
-[OVERRIDE:91:I:PANTS:PANTS:2:2:36]
-[OVERRIDE:91:I:PANTS:PANTS:3:2:37]
-[OVERRIDE:91:I:PANTS:PANTS:4:2:38]
-[OVERRIDE:91:I:PANTS:PANTS:5:2:39]
-[OVERRIDE:91:I:PANTS:PANTS:6:2:40]
-[OVERRIDE:91:I:PANTS:PANTS:7:2:41]
-[OVERRIDE:91:I:PANTS:PANTS:8:2:42]
+[OVERRIDE:91:I:PANTS:PANTS:0:items24:34]
+[OVERRIDE:91:I:PANTS:PANTS:1:items24:35]
+[OVERRIDE:91:I:PANTS:PANTS:2:items24:36]
+[OVERRIDE:91:I:PANTS:PANTS:3:items24:37]
+[OVERRIDE:91:I:PANTS:PANTS:4:items24:38]
+[OVERRIDE:91:I:PANTS:PANTS:5:items24:39]
+[OVERRIDE:91:I:PANTS:PANTS:6:items24:40]
+[OVERRIDE:91:I:PANTS:PANTS:7:items24:41]
+[OVERRIDE:91:I:PANTS:PANTS:8:items24:42]
 
-[OVERRIDE:91:I:SHIELD:SHIELD:0:2:43]
-[OVERRIDE:91:I:SHIELD:SHIELD:1:2:44]
+[OVERRIDE:91:I:SHIELD:SHIELD:0:items24:43]
+[OVERRIDE:91:I:SHIELD:SHIELD:1:items24:44]
 
-[OVERRIDE:91:I:SHOES:SHOES:0:2:45]
-[OVERRIDE:91:I:SHOES:SHOES:1:2:46]
-[OVERRIDE:91:I:SHOES:SHOES:2:2:47]
-[OVERRIDE:91:I:SHOES:SHOES:3:2:48]
-[OVERRIDE:91:I:SHOES:SHOES:4:2:49]
-[OVERRIDE:91:I:SHOES:SHOES:5:2:50]
+[OVERRIDE:91:I:SHOES:SHOES:0:items24:45]
+[OVERRIDE:91:I:SHOES:SHOES:1:items24:46]
+[OVERRIDE:91:I:SHOES:SHOES:2:items24:47]
+[OVERRIDE:91:I:SHOES:SHOES:3:items24:48]
+[OVERRIDE:91:I:SHOES:SHOES:4:items24:49]
+[OVERRIDE:91:I:SHOES:SHOES:5:items24:50]
 
-[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:0:2:51]
-[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:1:2:52]
-[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:2:2:53]
-[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:3:2:54]
-[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:4:2:55]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:0:items24:51]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:1:items24:52]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:2:items24:53]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:3:items24:54]
+[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:4:items24:55]
 
-[OVERRIDE:47:I:WEAPON:WEAPON:0:2:56]
-[OVERRIDE:47:I:WEAPON:WEAPON:1:2:57]
-[OVERRIDE:47:I:WEAPON:WEAPON:2:2:58]
-[OVERRIDE:47:I:WEAPON:WEAPON:3:2:59]
-[OVERRIDE:47:I:WEAPON:WEAPON:4:2:60]
-[OVERRIDE:47:I:WEAPON:WEAPON:5:2:61]
-[OVERRIDE:47:I:WEAPON:WEAPON:6:2:62]
-[OVERRIDE:47:I:WEAPON:WEAPON:7:2:63]
-[OVERRIDE:47:I:WEAPON:WEAPON:8:2:64]
-[OVERRIDE:47:I:WEAPON:WEAPON:9:2:65]
-[OVERRIDE:47:I:WEAPON:WEAPON:10:2:66]
-[OVERRIDE:47:I:WEAPON:WEAPON:11:2:67]
-[OVERRIDE:47:I:WEAPON:WEAPON:12:2:68]
-[OVERRIDE:47:I:WEAPON:WEAPON:13:2:69]
-[OVERRIDE:47:I:WEAPON:WEAPON:14:2:70]
-[OVERRIDE:47:I:WEAPON:WEAPON:15:2:71]
-[OVERRIDE:47:I:WEAPON:WEAPON:16:2:72]
-[OVERRIDE:47:I:WEAPON:WEAPON:17:2:73]
-[OVERRIDE:47:I:WEAPON:WEAPON:18:2:74]
-[OVERRIDE:47:I:WEAPON:WEAPON:19:2:75]
-[OVERRIDE:47:I:WEAPON:WEAPON:20:2:76]
-[OVERRIDE:47:I:WEAPON:WEAPON:21:2:77]
-[OVERRIDE:47:I:WEAPON:WEAPON:22:2:78]
-[OVERRIDE:47:I:WEAPON:WEAPON:23:2:79]
+[OVERRIDE:47:I:WEAPON:WEAPON:0:items24:56]
+[OVERRIDE:47:I:WEAPON:WEAPON:1:items24:57]
+[OVERRIDE:47:I:WEAPON:WEAPON:2:items24:58]
+[OVERRIDE:47:I:WEAPON:WEAPON:3:items24:59]
+[OVERRIDE:47:I:WEAPON:WEAPON:4:items24:60]
+[OVERRIDE:47:I:WEAPON:WEAPON:5:items24:61]
+[OVERRIDE:47:I:WEAPON:WEAPON:6:items24:62]
+[OVERRIDE:47:I:WEAPON:WEAPON:7:items24:63]
+[OVERRIDE:47:I:WEAPON:WEAPON:8:items24:64]
+[OVERRIDE:47:I:WEAPON:WEAPON:9:items24:65]
+[OVERRIDE:47:I:WEAPON:WEAPON:10:items24:66]
+[OVERRIDE:47:I:WEAPON:WEAPON:11:items24:67]
+[OVERRIDE:47:I:WEAPON:WEAPON:12:items24:68]
+[OVERRIDE:47:I:WEAPON:WEAPON:13:items24:69]
+[OVERRIDE:47:I:WEAPON:WEAPON:14:items24:70]
+[OVERRIDE:47:I:WEAPON:WEAPON:15:items24:71]
+[OVERRIDE:47:I:WEAPON:WEAPON:16:items24:72]
+[OVERRIDE:47:I:WEAPON:WEAPON:17:items24:73]
+[OVERRIDE:47:I:WEAPON:WEAPON:18:items24:74]
+[OVERRIDE:47:I:WEAPON:WEAPON:19:items24:75]
+[OVERRIDE:47:I:WEAPON:WEAPON:20:items24:76]
+[OVERRIDE:47:I:WEAPON:WEAPON:21:items24:77]
+[OVERRIDE:47:I:WEAPON:WEAPON:22:items24:78]
+[OVERRIDE:47:I:WEAPON:WEAPON:23:items24:79]
 
 #[OVERRIDE:145:I:TOY:TOY:0+n:2:tilenumber]
 
-[TILESET:_Spacefox_16x16LeoCeanOverrides.png:_Spacefox_16x16LeoCeanOverrides.png:3]
+[TILESET:_Spacefox_16x16LeoCeanOverrides.png:_Spacefox_16x16LeoCeanOverrides.png:leocean]
 
 #Alt 71 or 73 in tileset :88]
-[OVERRIDE:88:T:ConstructedStairUD:3:88]
-[OVERRIDE:88:T:FeatureStairUD:3:88]
-[OVERRIDE:88:T:FrozenStairUD:3:88]
-[OVERRIDE:88:T:Grass1StairUD:3:88]
-[OVERRIDE:88:T:Grass2StairUD:3:88]
-[OVERRIDE:88:T:LavaStairUD:3:88]
-[OVERRIDE:88:T:MineralStairUD:3:88]
-[OVERRIDE:88:T:SoilStairUD:3:88]
-[OVERRIDE:88:T:StoneStairUD:3:88]
-[OVERRIDE:88:T:UnderworldGateStairUD:3:88]
+[OVERRIDE:88:T:ConstructedStairUD:leocean:88]
+[OVERRIDE:88:T:FeatureStairUD:leocean:88]
+[OVERRIDE:88:T:FrozenStairUD:leocean:88]
+[OVERRIDE:88:T:Grass1StairUD:leocean:88]
+[OVERRIDE:88:T:Grass2StairUD:leocean:88]
+[OVERRIDE:88:T:LavaStairUD:leocean:88]
+[OVERRIDE:88:T:MineralStairUD:leocean:88]
+[OVERRIDE:88:T:SoilStairUD:leocean:88]
+[OVERRIDE:88:T:StoneStairUD:leocean:88]
+[OVERRIDE:88:T:UnderworldGateStairUD:leocean:88]
 
 
-[OVERRIDE:240:I:BAR:BAR::3:255]               #All Bars (comment out to not use)
-#[OVERRIDE:22:I:WOOD:WOOD::3:1]               #wood (delete comment to use, Can switch between :1] and :0])
-[OVERRIDE:237:I:ORTHOPEDIC_CAST:ORTHOPEDIC_CAST::3:10]          #ORTHOPEDIC_CAST ORTHOPEDIC_CAST
-[OVERRIDE:237:I:THREAD:THREAD::3:22]          #THREAD #DONE
-#[OVERRIDE:145:I:TOY:TOY::3:18]               #TOY TOY-bear #DONE (delete comment if you want to use it, may need to add this :TOY:0+n:)
-[OVERRIDE:248:I:EGG:EGG::3:11]                #EGG EGG #DONE
-#[OVERRIDE:146:I:CHEST:CHEST::3:4]            #CHEST CHEST (remove first comment to enable)
-[OVERRIDE:250:I:SEEDS:SEEDS::3:9]             #SEEDS SEEDS #DONE
-#[OVERRIDE:177:I:VERMIN:VERMIN::3:15]         #VERMIN VERMIN  (not yet in this version as there are more than one type, may add them next time but this only accounts for captured ones)
-[OVERRIDE:146:I:QUIVER:QUIVER::3:36]          #QUIVER QUIVER #DONE (mostly made by LeoCean)
-[OVERRIDE:159:I:SPLINT:SPLINT::3:7]           #SPLINT SPLINT #DONE (mostly made by LeoCean)
-[OVERRIDE:45:I:SCEPTER:SCEPTER::3:49]         #SCEPTER SCEPTER #DONE (freeuse graphic)
-#[OVERRIDE:20:I:GOBLET:GOBLET::3:21]          #GOBLET GOBLET (no idea which tile it originates, could be the correct one atm, just don't know)(ironhand graphic)
-#                                             #GEM GEM? Likely not replacing
-[OVERRIDE:173:I:FLASK:FLASK::3:2]             #FLASK FLASK #DONE (ironhand graphic edited)
-#                                             #FIGURINE FIGURINE
-[OVERRIDE:194:I:CRUTCH:CRUTCH::3:20]          #CRUTCH CRUTCH #DONE (mostly made by LeoCean)
-[OVERRIDE:230:I:CROWN:CROWN::3:6]             #CROWN CROWN #DONEfreeuseone
-#[OVERRIDE:#:I:CHEESE:CHEESE::3:52]            #CHEESE CHEESE NEED (can't find which tile it uses, nor do I have a tile for it)
-#                                             #CATAPULTPARTS CATAPULTPARTS
-#                                             #BRACELET BRACELET
-#                                             #BOX BOX  donish
-[OVERRIDE:88:I:BIN:BIN::3:27]                 #BIN BIN #DONE (ironhand graphic edited)
-[OVERRIDE:8:I:BOOK:BOOK::3:39]                #BOOK BOOK (39/40) #should be the right tile (mostly made by LeoCean)
-[OVERRIDE:146:I:BACKPACK:BACKPACK::3:35]      #BACKPACK BACKPACK (made by LeoCean)
-#                                             #ANIMALTRAP ANIMALTRAP doneish5
-[OVERRIDE:15:I:ANY_WEBS:::3:13]               #ANY_WEBS #don't know if this works
-#                                             #TABLE TABLE sametile
-[OVERRIDE:246:I:DRINK:DRINK::3:51]            #DRINK DRINK done (freeusegraphic) (don't know the graphic it uses(barrel maybe)
-#                                             #BALLISTAARROWHEAD BALLISTAARROWHEAD
-#                                             #BALLISTAPARTS BALLISTAPARTS
-[OVERRIDE:21:I:CHAIN:CHAIN::3:3]              #CHAIN CHAIN #Should be the same in any graphics set. (ironhand graphic edited)
-[OVERRIDE:21:B:CHAIN:Chain::3:3]              #CHAIN Chain
+#[OVERRIDE:240:I:BAR:BAR::leocean:255]              #All Bars (comment out to not use)
+#[OVERRIDE:22:I:WOOD:WOOD::leocean:1] #used in WIP              #wood (delete comment to use, Can switch between :1] and :0])#[OVERRIDE:237:I:ORTHOPEDIC_CAST:ORTHOPEDIC_CAST::leocean:10]          #ORTHOPEDIC_CAST ORTHOPEDIC_CAST
+[OVERRIDE:237:I:ORTHOPEDIC_CAST:ORTHOPEDIC_CAST::leocean:10]          #ORTHOPEDIC_CAST ORTHOPEDIC_CAST
+[OVERRIDE:237:I:THREAD:THREAD::leocean:22]         #THREAD #DONE
+#[OVERRIDE:145:I:TOY:TOY::leocean:18]    #used below           #TOY TOY-bear #DONE (delete comment if you want to use it, may need to add this :TOY:0+n:)
+[OVERRIDE:248:I:EGG:EGG::leocean:11]    #Alt in WIP           #EGG EGG #DONE
+#[OVERRIDE:146:I:CHEST:CHEST::leocean:4]  #doesn't work for some reason  #CHEST CHEST (remove first comment to enable)
+#[OVERRIDE:250:I:SEEDS:SEEDS::leocean:9]   #used in doren         #SEEDS SEEDS #DONE
+#[OVERRIDE:177:I:VERMIN:VERMIN::leocean:15]         #VERMIN VERMIN  (not yet in this version as there are more than one type, may add them next time but this only accounts for captured ones)
+#[OVERRIDE:146:I:QUIVER:QUIVER::leocean:36] #used WIP         #QUIVER QUIVER #DONE (mostly made by LeoCean)
+#[OVERRIDE:159:I:SPLINT:SPLINT::leocean:7]   #use dorens         #SPLINT SPLINT #DONE (mostly made by LeoCean)
+#[OVERRIDE:45:I:SCEPTER:SCEPTER::leocean:49] #hmm used below         #SCEPTER SCEPTER #DONE (freeuse graphic)
+#[OVERRIDE:20:I:GOBLET:GOBLET::leocean:21] #correct used WIP         #GOBLET GOBLET (no idea which tile it originates, could be the correct one atm, just don't know)(ironhand graphic)
+#                                                   #GEM GEM? Likely not replacing
+#[OVERRIDE:173:I:FLASK:FLASK::leocean:2]    #used WIP       #FLASK FLASK #DONE (ironhand graphic edited) (need new one, it's a bag in ironhand)
+#                                             		#FIGURINE FIGURINE
+#[OVERRIDE:194:I:CRUTCH:CRUTCH::leocean:20] #use dorens          #CRUTCH CRUTCH #DONE (mostly made by LeoCean)
+#[OVERRIDE:230:I:CROWN:CROWN::leocean:6]   #use dorens         #CROWN CROWN #DONEfreeuseone
+#[OVERRIDE:37:I:CHEESE:CHEESE::leocean:52]  #better in WIP         #CHEESE CHEESE NEED (can't find which tile it uses, nor do I have a tile for it)
+#                                                   #CATAPULTPARTS CATAPULTPARTS
+#                                                   #BRACELET BRACELET
+#                                                   #BOX BOX  donish
+#[OVERRIDE:88:I:BIN:BIN::leocean:27]   #using below WIP               #BIN BIN #DONE (ironhand graphic edited)
+#[OVERRIDE:8:I:BOOK:BOOK::leocean:39]     #using below WIP           #BOOK BOOK (39/40) #should be the right tile (mostly made by LeoCean)
+[OVERRIDE:146:I:BACKPACK:BACKPACK::leocean:35]      #BACKPACK BACKPACK (made by LeoCean)
+#                                                   #ANIMALTRAP ANIMALTRAP doneish5
+[OVERRIDE:15:I:ANY_WEBS:::leocean:13]               #ANY_WEBS #don't know if this works
+#                                                   #TABLE TABLE sametile
+[OVERRIDE:246:I:DRINK:DRINK::leocean:51]           #DRINK DRINK done (freeusegraphic) (don't know the graphic it uses(barrel maybe)
+#                                                   #BALLISTAARROWHEAD BALLISTAARROWHEAD
+#                                                   #BALLISTAPARTS BALLISTAPARTS
+[OVERRIDE:21:I:CHAIN:CHAIN::leocean:3]    #idk why these are # out          #CHAIN CHAIN #Should be the same in any graphics set. (ironhand graphic edited)
+[OVERRIDE:21:B:CHAIN:Chain::leocean:3]              #CHAIN Chain
 
-[OVERRIDE:177:I:WINDOW:WINDOW::3:42]          #WINDOW WINDOW (mostly made by LeoCean) (58 or 42)
-#[OVERRIDE:177:I:WINDOW:WINDOW::3:58]         #WINDOW WINDOW Alternate
-[OVERRIDE:177:B:WINDOW_ANY:WindowGem::3:57]
-[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:42]
-#[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::3:58]#WINDOWGlass Alternate
+#[OVERRIDE:177:I:WINDOW:WINDOW::leocean:42]          #WINDOW WINDOW (mostly made by LeoCean) (58 or 42)
+#[OVERRIDE:177:I:WINDOW:WINDOW::leocean:58]         #WINDOW WINDOW Alternate
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGem::leocean:57]
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::leocean:42]
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::leocean:58]#WINDOWGlass Alternate
 
+###########Replaced###########
 #Coffins only in override
-[OVERRIDE:48:I:COFFIN:COFFIN::3:48]			#Coffin in stockpile
-[OVERRIDE:48:B:COFFIN:Coffin::3:48]			#Coffin built
+#[OVERRIDE:48:I:COFFIN:COFFIN::leocean:48]			#Coffin in stockpile
+#[OVERRIDE:48:B:COFFIN:Coffin::leocean:48]			#Coffin built
 
 #Additional workshop sprites
-[OVERRIDE:61:B:WORKSHOP_CARPENTER:Workshop::3:1]		#Wood sprite
-[OVERRIDE:34:B:WORKSHOP_CARPENTER:Workshop::3:38:8:9]	#Chainsaw sprite -grey
-[OVERRIDE:231:B:WORKSHOP_CARPENTER:Workshop::3:79:7:]	#Tree stump sprite -brown
+#[OVERRIDE:61:B:WORKSHOP_CARPENTER:Workshop::leocean:1]		#Wood sprite
+#[OVERRIDE:34:B:WORKSHOP_CARPENTER:Workshop::leocean:38:8:9]	#Chainsaw sprite -grey
+#[OVERRIDE:231:B:WORKSHOP_CARPENTER:Workshop::leocean:79:7:]	#Tree stump sprite -brown
 
-[OVERRIDE:65:B:WORKSHOP_FARMER:Workshop::3:65]			#Farmer workshop toolset
-[OVERRIDE:79:B::Workshop::3:79]							#Tree stump - farmer
-[OVERRIDE:111:B:WORKSHOP_STILL:Workshop::3:114]			#Barrel sprite - Still
-[OVERRIDE:111:B:WORKSHOP_MASON:Workshop::3:65]			#2nd Toolset sprite - masons
-[OVERRIDE:79:B:TRADE_DEPOT:TradeDepot::3:79]			#Trade depo corners
+#[OVERRIDE:65:B:WORKSHOP_FARMER:Workshop::leocean:65]			#Farmer workshop toolset
+#[OVERRIDE:79:B::Workshop::leocean:79]							#Tree stump - farmer
+#[OVERRIDE:111:B:WORKSHOP_STILL:Workshop::leocean:114]			#Barrel sprite - Still
+#[OVERRIDE:111:B:WORKSHOP_MASON:Workshop::leocean:65]			#2nd Toolset sprite - masons
+#[OVERRIDE:79:B:TRADE_DEPOT:TradeDepot::leocean:79]			#Trade depo corners
 
 #Colorcode and distinguish furnaces
-[OVERRIDE:111:B:FURNACE_SMELTER_MAGMA:Furnace::3:152:5:16]			#Cart sprite red - MagmaSmelter
-[OVERRIDE:111:B:FURNACE_SMELTER_ANY:Furnace::3:152:16:]				#Cart sprite - Smelter
-[OVERRIDE:61:B:FURNACE_SMELTER_ANY:Furnace::3:255:16:]				#Bar sprite - Smelter
-[OVERRIDE:93:B:FURNACE_SMELTER_ANY:Furnace::3:59:16:]				#Change toolset sprite
+#[OVERRIDE:111:B:FURNACE_SMELTER_MAGMA:Furnace::leocean:152:5:16]			#Cart sprite red - MagmaSmelter
+#[OVERRIDE:111:B:FURNACE_SMELTER_ANY:Furnace::leocean:152:16:]				#Cart sprite - Smelter
+#[OVERRIDE:61:B:FURNACE_SMELTER_ANY:Furnace::leocean:255:16:]				#Bar sprite - Smelter
+#[OVERRIDE:93:B:FURNACE_SMELTER_ANY:Furnace::leocean:59:16:]				#Change toolset sprite
 
-[OVERRIDE:111:B:FURNACE_GLASS_ANY:Furnace::3:111:5:9]		#Barrel sprite -red
-[OVERRIDE:61:B:FURNACE_GLASS_ANY:Furnace::3:21:16:]			#Glass sprite
-[OVERRIDE:93:B:FURNACE_GLASS_ANY:Furnace::3:123:16:]		#Change toolset sprite
+#[OVERRIDE:111:B:FURNACE_GLASS_ANY:Furnace::leocean:111:5:9]		#Barrel sprite -red
+#[OVERRIDE:61:B:FURNACE_GLASS_ANY:Furnace::leocean:21:16:]			#Glass sprite
+#[OVERRIDE:93:B:FURNACE_GLASS_ANY:Furnace::leocean:123:16:]		#Change toolset sprite
 
-[OVERRIDE:111:B:FURNACE_KILN_ANY:Furnace::3:111:13:9]		#Barrel sprite -orange
-[OVERRIDE:61:B:FURNACE_KILN_ANY:Furnace::3:153:16:5]		#Pot sprite -red
-[OVERRIDE:93:B:FURNACE_KILN_ANY:Furnace::3:65:16:]			#Change toolset sprite
+#[OVERRIDE:111:B:FURNACE_KILN_ANY:Furnace::leocean:111:13:9]		#Barrel sprite -orange
+#[OVERRIDE:61:B:FURNACE_KILN_ANY:Furnace::leocean:153:16:5]		#Pot sprite -red
+#[OVERRIDE:93:B:FURNACE_KILN_ANY:Furnace::leocean:65:16:]			#Change toolset sprite
 
 #Woodburner
-[OVERRIDE:111:B:FURNACE_WOOD:Furnace::3:1]		#Wood sprite
-[OVERRIDE:61:B:FURNACE_WOOD:Furnace::3:0:9]		#Charcoal log sprite
+#[OVERRIDE:111:B:FURNACE_WOOD:Furnace::leocean:1]		#Wood sprite
+#[OVERRIDE:61:B:FURNACE_WOOD:Furnace::leocean:0:9]		#Charcoal log sprite
 
-
+###########Replaced###########
 #TILE
 #Waterfall
 #Driftwood
@@ -191,64 +192,1016 @@
 #BurningTreeBranches, BurningTreeCapFloor, BurningTreeCapRamp, BurningTreeCapWall, BurningTreeTrunk, BurningTreeTwigs,
 
 
-[OVERRIDE:186:B:DOOR:Door::3:197]#wood door
-[OVERRIDE:186:I:DOOR:DOOR::3:197]#wood door
-[OVERRIDE:240:B:DOOR:Door::3:198]#metal door
-[OVERRIDE:240:I:DOOR:DOOR::3:198]#metal door
+[OVERRIDE:186:B:DOOR:Door::leocean:197]#wood door
+[OVERRIDE:186:I:DOOR:DOOR::leocean:197]#wood door
+#[OVERRIDE:240:B:DOOR:Door::leocean:198]#metal door using dorens
+#[OVERRIDE:240:I:DOOR:DOOR::leocean:198]#metal door using dorens
 #[OVERRIDE:186:B:DOOR:Door::TILESET:197] (don't use this or the one below, it's an example)
 #[OVERRIDE:186:I:DOOR:DOOR::TILESET:197]
 
 
 #May have to check,TREE ROOTS, CHECK \data\init d_init.txt TO MAKE SURE YOUR VERSION IS COMPATIBLE WITH THESE ONES, not all tilesets have the same thing set as roots#
 
-#Spacefox LeoCean, Afro will be different#
-[OVERRIDE:141:T:TreeDeadRoots:3:55]
-[OVERRIDE:127:T:TreeDeadRootSloping:3:56]
-[OVERRIDE:141:T:TreeRoots:3:66]
-[OVERRIDE:127:T:TreeRootSloping:3:67]
+#Spacefox LeoCean, Afro will be different# Probably replace this ORIGINAL
+#!![OVERRIDE:141:T:TreeDeadRoots:leocean:55]
+#!![OVERRIDE:127:T:TreeDeadRootSloping:leocean:56]
+#!![OVERRIDE:141:T:TreeRoots:leocean:66]
+#!![OVERRIDE:127:T:TreeRootSloping:leocean:67]
 
-#Phoebus, may be different#
-#[OVERRIDE:133:T:TreeDeadRoots:3:55]
-#[OVERRIDE:158:T:TreeDeadRootSloping:3:56]
-#[OVERRIDE:133:T:TreeRoots:3:66]
-#[OVERRIDE:158:T:TreeRootSloping:3:67]
+#dorenitems24 overrides/Wip by utkonos# Real one further down
+#[OVERRIDE:141:T:TreeDeadRoots:dorenitems24:236:8:5]
+#[OVERRIDE:127:T:TreeDeadRootSloping:leocean:56:8:5]
+#[OVERRIDE:141:T:TreeRoots:dorenitems24:236]
+#[OVERRIDE:127:T:TreeRootSloping:leocean:67]
+
+#Guys overrides # CHECK
+#OVERRIDE:34:B:WORKSHOP_CARPENTER:Workshop::leocean:16]
+#OVERRIDE:61:B:WORKSHOP_CARPENTER:Workshop::leocean:17]
+#OVERRIDE:93:B:WORKSHOP_CARPENTER:Workshop::leocean:208]
+#OVERRIDE:176:B:WORKSHOP_CARPENTER:Workshop::leocean:209]
 
 #Ironhand, these could be different. Matched them with fricy's buid#
-#[OVERRIDE:156:T:TreeDeadRoots:3:55]
-#[OVERRIDE:127:T:TreeDeadRootSloping:3:56]
-#[OVERRIDE:156:T:TreeRoots:3:66]
-#[OVERRIDE:127:T:TreeRootSloping:3:67]
+#[OVERRIDE:156:T:TreeDeadRoots:tilesetname:55]
+#[OVERRIDE:127:T:TreeDeadRootSloping:tilesetname:56]
+#[OVERRIDE:156:T:TreeRoots:tilesetname:66]
+#[OVERRIDE:127:T:TreeRootSloping:tilesetname:67]
 
-#below don't work
+#below doesn't work
 
-#[OVERRIDE:240:I:BAR:BAR:"iron_bars":3:241] #iron
-#[OVERRIDE:240:I:BAR:BAR:"IRON_BAR":3:241] #iron
-#[OVERRIDE:240:I:BAR:BAR:IRON_BAR:3:241] #iron
-#[OVERRIDE:240:I:BAR:BAR:IRON_BARS:3:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:"iron_bars":tilesetname:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:"IRON_BAR":tilesetname:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:IRON_BAR:tilesetname:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:IRON_BARS:tilesetname:241] #iron
 
-#[OVERRIDE:240:I:BAR:BAR:"gold bars":3:242] #gold
-#[OVERRIDE:240:I:BAR:BAR:SILVER:3:243] #silver
-#[OVERRIDE:240:I:BAR:BAR:COPPER:3:244] #copper
+#[OVERRIDE:240:I:BAR:BAR:"gold bars":tilesetname:242] #gold
+#[OVERRIDE:240:I:BAR:BAR:SILVER:tilesetname:243] #silver
+#[OVERRIDE:240:I:BAR:BAR:COPPER:tilesetname:244] #copper
 
-#[OVERRIDE:240:I:BAR:BAR:0:3:241] #iron
-#[OVERRIDE:240:I:BAR:BAR:1:3:242] #gold
-#[OVERRIDE:240:I:BAR:BAR:2:3:243] #silver
-#[OVERRIDE:240:I:BAR:BAR:3:3:244] #copper
-#[OVERRIDE:240:I:BAR:BAR:4:3:245] #zinc
-#[OVERRIDE:240:I:BAR:BAR:5:3:246] #bronze
-#[OVERRIDE:240:I:BAR:BAR:6:3:247] #brass
-#[OVERRIDE:240:I:BAR:BAR:7:3:248] #steel
-#[OVERRIDE:240:I:BAR:BAR:8:3:249] #pig iron
-#[OVERRIDE:240:I:BAR:BAR:9:3:250] #electrum
-#[OVERRIDE:240:I:BAR:BAR:10:3:251] #tin
-#[OVERRIDE:240:I:BAR:BAR:11:3:252] #fine pewter
-#[OVERRIDE:240:I:BAR:BAR:12:3:253] #trifle pewter
-#[OVERRIDE:240:I:BAR:BAR:13:3:254] #lay pewter
-#[OVERRIDE:240:I:BAR:BAR:14:3:255] #lead
-#[OVERRIDE:240:I:BAR:BAR:15:3:224] #nickel
-#[OVERRIDE:240:I:BAR:BAR:16:3:225] #billion
-#[OVERRIDE:240:I:BAR:BAR:17:3:226] #sterling silver
-#[OVERRIDE:240:I:BAR:BAR:18:3:227] #black bronze
-#[OVERRIDE:240:I:BAR:BAR:19:3:228] #rose gold
-#[OVERRIDE:240:I:BAR:BAR:20:3:229] #bismuth
-#[OVERRIDE:240:I:BAR:BAR:21:3:230] #bismuth bronze
+#[OVERRIDE:240:I:BAR:BAR:0:tilesetname:241] #iron
+#[OVERRIDE:240:I:BAR:BAR:1:tilesetname:242] #gold
+#[OVERRIDE:240:I:BAR:BAR:2:tilesetname:243] #silver
+#[OVERRIDE:240:I:BAR:BAR:3:tilesetname:244] #copper
+#[OVERRIDE:240:I:BAR:BAR:4:tilesetname:245] #zinc
+#[OVERRIDE:240:I:BAR:BAR:5:tilesetname:246] #bronze
+#[OVERRIDE:240:I:BAR:BAR:6:tilesetname:247] #brass
+#[OVERRIDE:240:I:BAR:BAR:7:tilesetname:248] #steel
+#[OVERRIDE:240:I:BAR:BAR:8:tilesetname:249] #pig iron
+#[OVERRIDE:240:I:BAR:BAR:9:tilesetname:250] #electrum
+#[OVERRIDE:240:I:BAR:BAR:10:tilesetname:251] #tin
+#[OVERRIDE:240:I:BAR:BAR:11:tilesetname:252] #fine pewter
+#[OVERRIDE:240:I:BAR:BAR:12:tilesetname:253] #trifle pewter
+#[OVERRIDE:240:I:BAR:BAR:13:tilesetname:254] #lay pewter
+#[OVERRIDE:240:I:BAR:BAR:14:tilesetname:255] #lead
+#[OVERRIDE:240:I:BAR:BAR:15:tilesetname:224] #nickel
+#[OVERRIDE:240:I:BAR:BAR:16:tilesetname:225] #billion
+#[OVERRIDE:240:I:BAR:BAR:17:tilesetname:226] #sterling silver
+#[OVERRIDE:240:I:BAR:BAR:18:tilesetname:227] #black bronze
+#[OVERRIDE:240:I:BAR:BAR:19:tilesetname:228] #rose gold
+#[OVERRIDE:240:I:BAR:BAR:20:tilesetname:229] #bismuth
+#[OVERRIDE:240:I:BAR:BAR:21:tilesetname:230] #bismuth bronze
+
+#Fortifications #Change these#
+#[OVERRIDE:206:T:ConstructedFortification:leocean:206]
+#[OVERRIDE:206:T:StoneFortification:leocean:206]
+#[OVERRIDE:206:T:MineralFortification:leocean:206]
+#[OVERRIDE:206:T:LavaFortification:leocean:206]
+#[OVERRIDE:206:T:FeatureFortification:leocean:206]
+#[OVERRIDE:206:T:FrozenFortification:leocean:206]
+
+
+[TILESET:_Dorenitems24x24.png:_Dorenitems24x24.png:dorenitems24]
+#[OVERRIDE:Tile:Kind:Id:Type:Subtype:Tileset:NewTile]
+
+#[OVERRIDE:145:I:TOY:TOY:0:dorenitems24:0]
+#[OVERRIDE:145:I:TOY:TOY:1:dorenitems24:1]
+#[OVERRIDE:145:I:TOY:TOY:2:dorenitems24:2]
+#[OVERRIDE:145:I:TOY:TOY:3:dorenitems24:3]
+#[OVERRIDE:145:I:TOY:TOY:4:dorenitems24:4]
+
+#Check above#
+[OVERRIDE:12:I:AMULET:::dorenitems24:5]
+[OVERRIDE:230:I:CROWN:::dorenitems24:6]
+[OVERRIDE:153:I:BRACELET:::dorenitems24:7]
+[OVERRIDE:148:I:BRACELET:::dorenitems24:7]
+[OVERRIDE:235:I:EARRING:::dorenitems24:8]
+[OVERRIDE:148:I:RING:::dorenitems24:9]
+
+#[OVERRIDE:8:I:TOOL:TOOL:10:dorenitems24:10] #nest box
+#[OVERRIDE:8:I:BOOK:::dorenitems24:11] #in use by WIP
+[OVERRIDE:9:I:QUERN:::dorenitems24:12] #use
+[OVERRIDE:9:I:MILLSTONE:::dorenitems24:12] #use
+#[OVERRIDE:11:I:BOX:::dorenitems24:13] #bag
+[OVERRIDE:15:I:ROUGH:::dorenitems24:14] # CHECK rough gems, not gonna override with this most likely, guhhh
+#[OVERRIDE:15:I:ANY_WEBS:::dorenitems24:15]
+#[OVERRIDE:45:I:SCEPTER:::dorenitems24:17]
+#[OVERRIDE:48:I:COFFIN:::dorenitems24:18]
+#[OVERRIDE:88:I:BIN:::dorenitems24:19:16:]
+[OVERRIDE:88:I:FLOODGATE:::dorenitems24:20:16:]
+[OVERRIDE:215:I:FLOODGATE:::dorenitems24:20:16:]
+[OVERRIDE:124:I:PIPE_SECTION:::dorenitems24:21]
+#[OVERRIDE:127:I:ANIMALTRAP:::dorenitems24:22] #used WIP
+#[OVERRIDE:146:I:BOX:::dorenitems24:23] #Chest
+#[OVERRIDE:146:I:QUIVER:::dorenitems24:24]
+#[OVERRIDE:146:I:BACKPACK:::dorenitems24:25]
+[OVERRIDE:194:I:CRUTCH:::dorenitems24:27] #use
+[OVERRIDE:159:I:SPLINT:::dorenitems24:28] #use
+#[OVERRIDE:159:I:ORTHOPEDIC_CAST:::dorenitems24:28] #unlikely
+
+#[OVERRIDE:186:I:DOOR:::dorenitems24:29]#wooden door
+#[OVERRIDE:240:I:DOOR:DOOR::dorenitems24:30]#metal door #Used below CHECK
+#[OVERRIDE:240:B:DOOR:Door::dorenitems24:30]#metal door #Used below CHECK
+
+#[OVERRIDE:240:B:DOOR:Door::leocean:198]#metal door
+#[OVERRIDE:240:I:DOOR:DOOR::leocean:198]#metal door
+
+#[OVERRIDE:209:I:TABLE:::dorenitems24:31]
+#[OVERRIDE:210:I:CHAIR:::dorenitems24:32]
+[OVERRIDE:220:I:CATAPULTPARTS:::dorenitems24:33]
+[OVERRIDE:220:I:BALLISTAPARTS:::dorenitems24:34]
+#[OVERRIDE:227:I:CABINET:::dorenitems24:35] #no, using leocean16
+#[OVERRIDE:239:I:SLAB:::dorenitems24:36] #no, using WIP
+#[OVERRIDE:240:I:BAR:::dorenitems24:37] #no, using WIP
+[OVERRIDE:247:I:GLOB:::dorenitems24:38]  #not in use above so ok
+[OVERRIDE:250:I:SEEDS:SEEDS::dorenitems24:39] #not in use above so ok
+#[OVERRIDE:251:I:WEAPONRACK:::dorenitems24:40]
+[OVERRIDE:254:I:BLOCKS:::dorenitems24:41] #sure
+
+#Doren TOOL moved down, so it's easier.#
+[OVERRIDE:177:I:WINDOW:::dorenitems24:50]
+
+#Boulder moved down
+#[OVERRIDE:42:I:BOULDER:::leocean24:252] #check for now use was 253, added dibujors instead, Further down more indepth
+#[OVERRIDE:7:I:BOULDER:BOULDER::2:28]
+#[OVERRIDE:9:I:BOULDER:BOULDER::2:29]
+#[OVERRIDE:15:I:BOULDER:BOULDER::2:30]
+#[OVERRIDE:42:I:BOULDER:BOULDER::2:31]
+#[OVERRIDE:43:I:BOULDER:BOULDER::2:32]
+
+#buildings
+
+#[OVERRIDE:8:B:NEST:::dorenitems24:10]
+#[OVERRIDE:8:B:NEST_BOX:::dorenitems24:10]
+[OVERRIDE:9:B:WORKSHOP_QUERN:::dorenitems24:12]
+[OVERRIDE:9:B:WORKSHOP_MILLSTONE:::dorenitems24:12]
+[OVERRIDE:111:B:WORKSHOP_MILLSTONE:::dorenitems24:51]
+[OVERRIDE:22:B:HIVE:::dorenitems24:16]
+#[OVERRIDE:48:B:COFFIN:::dorenitems24:18]
+[OVERRIDE:88:B:FLOODGATE:::dorenitems24:20:16:] #may use WIP
+[OVERRIDE:215:B:FLOODGATE:::dorenitems24:20:16:] #may use WIP
+#[OVERRIDE:11:B:BOX:::dorenitems24:13] #bag
+#[OVERRIDE:146:B:BOX:::dorenitems24:23] #chest
+#[OVERRIDE:186:B:DOOR:::dorenitems24:29]
+#[OVERRIDE:240:B:DOOR:::dorenitems24:30]
+#[OVERRIDE:209:B:TABLE:::dorenitems24:31]
+#[OVERRIDE:210:B:CHAIR:::dorenitems24:32]
+#[OVERRIDE:227:B:CABINET:::dorenitems24:35]
+#[OVERRIDE:239:B:SLAB:::dorenitems24:36]
+#[OVERRIDE:251:B:WEAPON_RACK:::dorenitems24:40]
+[OVERRIDE:177:B:WINDOW_ANY:::dorenitems24:50] #sure
+[OVERRIDE:88:B:ARCHERY_TARGET:::dorenitems24:52] #sure
+
+[OVERRIDE:15:B:GEAR_ASSEMBLY:::dorenitems24:64]
+[OVERRIDE:42:B:GEAR_ASSEMBLY:::dorenitems24:82]
+[OVERRIDE:205:B:AXLE_HORIZONTAL:::dorenitems24:65:16:]
+[OVERRIDE:179:B:AXLE_HORIZONTAL:::dorenitems24:66:16:]
+[OVERRIDE:186:B:AXLE_HORIZONTAL:::dorenitems24:80:16:]
+[OVERRIDE:196:B:AXLE_HORIZONTAL:::dorenitems24:81:16:]
+[OVERRIDE:111:B:AXLE_VERTICAL:::dorenitems24:67:16:]
+[OVERRIDE:9:B:AXLE_VERTICAL:::dorenitems24:83:16:]
+
+#[OVERRIDE:73:B:SUPPORT:::dorenitems24:56] #check, using different one WIP
+[OVERRIDE:201:B:BRIDGE:::dorenitems24:53]
+[OVERRIDE:205:B:BRIDGE:::dorenitems24:54]
+[OVERRIDE:187:B:BRIDGE:::dorenitems24:55]
+[OVERRIDE:111:B:BRIDGE:::dorenitems24:56]
+[OVERRIDE:43:B:BRIDGE:::dorenitems24:68]
+[OVERRIDE:186:B:BRIDGE:::dorenitems24:69]
+[OVERRIDE:210:B:BRIDGE:::dorenitems24:70]
+[OVERRIDE:208:B:BRIDGE:::dorenitems24:71]
+[OVERRIDE:206:B:BRIDGE:::dorenitems24:72]
+[OVERRIDE:247:B:BRIDGE:::dorenitems24:84]
+[OVERRIDE:200:B:BRIDGE:::dorenitems24:85]
+[OVERRIDE:188:B:BRIDGE:::dorenitems24:86]
+[OVERRIDE:198:B:BRIDGE:::dorenitems24:87]
+[OVERRIDE:181:B:BRIDGE:::dorenitems24:88]
+
+[OVERRIDE:240:B:BARS_FLOOR:::dorenitems24:57]
+[OVERRIDE:19:B:BARS_VERTICAL:::dorenitems24:58]
+[OVERRIDE:126:B:FARM_PLOT:::dorenitems24:59] #farm
+[OVERRIDE:247:B:FARM_PLOT:::dorenitems24:60]
+[OVERRIDE:205:B:FARM_PLOT:::dorenitems24:61]
+[OVERRIDE:246:B:SCREW_PUMP:::dorenitems24:62]
+[OVERRIDE:37:B:SCREW_PUMP:::dorenitems24:63]
+[OVERRIDE:46:B:WEAPON_UPRIGHT:::dorenitems24:73] #traps
+[OVERRIDE:179:B:WEAPON_UPRIGHT:::dorenitems24:89] #traps
+[OVERRIDE:205:B:WATER_WHEEL:::dorenitems24:74]
+[OVERRIDE:186:B:WATER_WHEEL:::dorenitems24:75]
+[OVERRIDE:196:B:WATER_WHEEL:::dorenitems24:90]
+[OVERRIDE:179:B:WATER_WHEEL:::dorenitems24:91]
+[OVERRIDE:111:B:WELL:::dorenitems24:76] #may as well
+[OVERRIDE:186:B:WINDMILL:::dorenitems24:77]
+[OVERRIDE:205:B:WINDMILL:::dorenitems24:78]
+[OVERRIDE:196:B:WINDMILL:::dorenitems24:79]
+[OVERRIDE:79:B:WINDMILL:::dorenitems24:92]
+[OVERRIDE:179:B:WINDMILL:::dorenitems24:93]
+[OVERRIDE:47:B:WINDMILL:::dorenitems24:94]
+[OVERRIDE:92:B:WINDMILL:::dorenitems24:95]
+
+[OVERRIDE:220:B::SiegeEngine::dorenitems24:144]
+[OVERRIDE:223:B::SiegeEngine::dorenitems24:145]
+[OVERRIDE:205:B::SiegeEngine::dorenitems24:146]
+[OVERRIDE:181:B::SiegeEngine::dorenitems24:147]
+[OVERRIDE:8:B::SiegeEngine::dorenitems24:148]
+[OVERRIDE:221:B::SiegeEngine::dorenitems24:160]
+[OVERRIDE:186:B::SiegeEngine::dorenitems24:161]
+[OVERRIDE:222:B::SiegeEngine::dorenitems24:162]
+[OVERRIDE:198:B::SiegeEngine::dorenitems24:163]
+[OVERRIDE:177:B::SiegeEngine::dorenitems24:164]
+[OVERRIDE:92:B::SiegeEngine::dorenitems24:176]
+[OVERRIDE:208:B::SiegeEngine::dorenitems24:177]
+[OVERRIDE:47:B::SiegeEngine::dorenitems24:178]
+[OVERRIDE:210:B::SiegeEngine::dorenitems24:179]
+
+#Workshops
+
+[OVERRIDE:176:B:WORKSHOP_CARPENTER:::dorenitems24:113]
+[OVERRIDE:34:B:WORKSHOP_CARPENTER:::dorenitems24:97]
+[OVERRIDE:61:B:WORKSHOP_CARPENTER:::dorenitems24:98]
+[OVERRIDE:93:B:WORKSHOP_CARPENTER:::dorenitems24:114]
+
+[OVERRIDE:31:B:WORKSHOP_FORGE_ANY:::dorenitems24:112:16:16]
+[OVERRIDE:7:B:WORKSHOP_FORGE_ANY:::dorenitems24:128::16]
+[OVERRIDE:240:B:WORKSHOP_FORGE_ANY:::dorenitems24:37]
+
+[OVERRIDE:238:B:WORKSHOP_BOWYER:::dorenitems24:99]
+[OVERRIDE:93:B:WORKSHOP_BOWYER:::dorenitems24:115]
+[OVERRIDE:40:B:WORKSHOP_BOWYER:::dorenitems24:131]
+[OVERRIDE:176:B:WORKSHOP_BOWYER:::dorenitems24:113]
+
+[OVERRIDE:176:B:WORKSHOP_JEWELER:::dorenitems24:100]
+[OVERRIDE:42:B:WORKSHOP_JEWELER:::dorenitems24:116]
+[OVERRIDE:91:B:WORKSHOP_JEWELER:::dorenitems24:115]
+[OVERRIDE:123:B:WORKSHOP_JEWELER:::dorenitems24:132]
+
+[OVERRIDE:176:B:WORKSHOP_MASON:::dorenitems24:117]
+[OVERRIDE:91:B:WORKSHOP_MASON:::dorenitems24:115]
+[OVERRIDE:59:B:WORKSHOP_MASON:::dorenitems24:101]
+[OVERRIDE:111:B:WORKSHOP_MASON:::dorenitems24:133]
+
+[OVERRIDE:178:B:WORKSHOP_BUTCHER:::dorenitems24:102]
+[OVERRIDE:236:B:WORKSHOP_BUTCHER:::dorenitems24:118]
+[OVERRIDE:247:B:WORKSHOP_BUTCHER:::dorenitems24:134]
+
+[OVERRIDE:91:B:WORKSHOP_MECHANIC:::dorenitems24:115]
+[OVERRIDE:176:B:WORKSHOP_MECHANIC:::dorenitems24:132]
+[OVERRIDE:127:B:WORKSHOP_MECHANIC:::dorenitems24:129]
+[OVERRIDE:94:B:WORKSHOP_MECHANIC:::dorenitems24:130]
+
+[OVERRIDE:65:B:WORKSHOP_FARMER:::dorenitems24:103]
+[OVERRIDE:240:B:WORKSHOP_FARMER:::dorenitems24:119]
+[OVERRIDE:79:B:WORKSHOP_FARMER:::dorenitems24:135]
+
+[OVERRIDE:178:B:WORKSHOP_FISHERY:::dorenitems24:104]
+[OVERRIDE:224:B:WORKSHOP_FISHERY:::dorenitems24:120]
+[OVERRIDE:35:B:WORKSHOP_FISHERY:::dorenitems24:136]
+
+[OVERRIDE:176:B:WORKSHOP_CRAFTSDWARF:::dorenitems24:105]
+[OVERRIDE:93:B:WORKSHOP_CRAFTSDWARF:::dorenitems24:115]
+[OVERRIDE:45:B:WORKSHOP_CRAFTSDWARF:::dorenitems24:121]
+
+[OVERRIDE:176:B:WORKSHOP_SIEGE:::dorenitems24:164]
+[OVERRIDE:111:B:WORKSHOP_SIEGE:::dorenitems24:148]
+[OVERRIDE:92:B:WORKSHOP_SIEGE:::dorenitems24:176]
+[OVERRIDE:47:B:WORKSHOP_SIEGE:::dorenitems24:178]
+[OVERRIDE:126:B:WORKSHOP_SIEGE:::dorenitems24:180]
+
+[OVERRIDE:8:B:WORKSHOP_TANNER:::dorenitems24:137]
+[OVERRIDE:176:B:WORKSHOP_TANNER:::dorenitems24:138]
+
+[OVERRIDE:246:B:WORKSHOP_STILL:::dorenitems24:122]
+[OVERRIDE:205:B:WORKSHOP_STILL:::dorenitems24:123]
+[OVERRIDE:184:B:WORKSHOP_STILL:::dorenitems24:124]
+[OVERRIDE:111:B:WORKSHOP_STILL:::dorenitems24:139]
+[OVERRIDE:126:B:WORKSHOP_STILL:::dorenitems24:140]
+
+[OVERRIDE:195:B:WORKSHOP_LOOM:::dorenitems24:106]
+[OVERRIDE:35:B:WORKSHOP_LOOM:::dorenitems24:107]
+[OVERRIDE:180:B:WORKSHOP_LOOM:::dorenitems24:108]
+
+[OVERRIDE:177:B:WORKSHOP_ASHERY:::dorenitems24:109]
+[OVERRIDE:88:B:WORKSHOP_ASHERY:::dorenitems24:125]
+[OVERRIDE:45:B:WORKSHOP_ASHERY:::dorenitems24:139]
+
+[OVERRIDE:176:B:WORKSHOP_KITCHEN:::dorenitems24:110]
+[OVERRIDE:236:B:WORKSHOP_KITCHEN:::dorenitems24:126]
+[OVERRIDE:59:B:WORKSHOP_KITCHEN:::dorenitems24:142]
+
+[OVERRIDE:207:B:WORKSHOP_CUSTOM:::dorenitems24:141]
+
+[OVERRIDE:150:B:WORKSHOP_CUSTOM:::dorenitems24:139]
+[OVERRIDE:8:B:WORKSHOP_CUSTOM:::dorenitems24:137]
+[OVERRIDE:240:B:WORKSHOP_CUSTOM:::dorenitems24:37]
+
+[OVERRIDE:177:B:WORKSHOP_LEATHER:::dorenitems24:111]
+[OVERRIDE:92:B:WORKSHOP_LEATHER:::dorenitems24:127]
+
+[OVERRIDE:7:B:WORKSHOP_DYER:::dorenitems24:143]
+[OVERRIDE:150:B:WORKSHOP_DYER:::dorenitems24:139]
+
+[OVERRIDE:176:B:WORKSHOP_CLOTHIER:::dorenitems24:149]
+[OVERRIDE:91:B:WORKSHOP_CLOTHIER:::dorenitems24:165]
+[OVERRIDE:93:B:WORKSHOP_CLOTHIER:::dorenitems24:181]
+
+[OVERRIDE:92:B:WORKSHOP_MAGMA_FORGE:::dorenitems24:150]
+[OVERRIDE:8:B:WORKSHOP_MAGMA_FORGE:::dorenitems24:166]
+[OVERRIDE:196:B:WORKSHOP_MAGMA_FORGE:::dorenitems24:182]
+
+[OVERRIDE:61:B:FURNACE_WOOD:::dorenitems24:167]
+[OVERRIDE:7:B:FURNACE_WOOD:::dorenitems24:151]
+[OVERRIDE:93:B:FURNACE_WOOD:::dorenitems24:152]
+[OVERRIDE:111:B:FURNACE_WOOD:::dorenitems24:168]
+
+[OVERRIDE:7:B:FURNACE_SMELTER_MAGMA:::dorenitems24:153]
+[OVERRIDE:93:B:FURNACE_SMELTER_MAGMA:::dorenitems24:154]
+
+[OVERRIDE:7:B:FURNACE_SMELTER_ANY:::dorenitems24:153]
+[OVERRIDE:93:B:FURNACE_SMELTER_ANY:::dorenitems24:154]
+[OVERRIDE:111:B:FURNACE_SMELTER_ANY:::dorenitems24:168]
+
+[OVERRIDE:7:B:FURNACE_KILN_ANY:::dorenitems24:169]
+[OVERRIDE:93:B:FURNACE_KILN_ANY:::dorenitems24:170]
+[OVERRIDE:61:B:FURNACE_KILN_ANY:::dorenitems24:121]
+
+[OVERRIDE:7:B:FURNACE_GLASS_ANY:::dorenitems24:185]
+[OVERRIDE:93:B:FURNACE_GLASS_ANY:::dorenitems24:186]
+
+#Workshop defaults
+
+[OVERRIDE:39:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:43:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:44:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:46:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:96:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:126:B:WORKSHOP_ANY:::dorenitems24:68]
+[OVERRIDE:247:B:WORKSHOP_ANY:::dorenitems24:68]
+
+[OVERRIDE:39:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:43:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:44:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:46:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:96:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:126:B:FURNACE_ANY:::dorenitems24:68]
+[OVERRIDE:247:B:FURNACE_ANY:::dorenitems24:68]
+
+[OVERRIDE:61:B:FURNACE_ANY:::dorenitems24:183]
+[OVERRIDE:111:B:FURNACE_ANY:::dorenitems24:184]
+
+[OVERRIDE:176:B:WORKSHOP_ANY:::dorenitems24:113]
+[OVERRIDE:177:B:WORKSHOP_ANY:::dorenitems24:113]
+[OVERRIDE:178:B:WORKSHOP_ANY:::dorenitems24:113]
+
+#Terrain
+
+#Up down stairs#
+#[OVERRIDE:88:T:ConstructedStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:FeatureStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:FrozenStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:Grass1StairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:Grass2StairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:LavaStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:MineralStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:SoilStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:StoneStairUD:dorenitems24:96::]
+#[OVERRIDE:88:T:UnderworldGateStairUD:dorenitems24:96::]
+
+#Farms#
+[OVERRIDE:126:T:FurrowedSoil:dorenitems24:59::]
+[OVERRIDE:247:T:FurrowedSoil:dorenitems24:60::]
+
+[OVERRIDE:19:T:Fire:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeBranches:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeCapFloor:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeCapRamp:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeCapWall:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeTrunk:dorenitems24:255::]
+#[OVERRIDE:19:T:BurningTreeTwigs:dorenitems24:255::]
+#[OVERRIDE:15:T:Campfire:dorenitems24:254::]
+
+#dorenitems24 overrides/Wip by utkonos# Treeroots # Moved further down #CHECK
+#[OVERRIDE:141:T:TreeDeadRoots:leocean24:45:8:5]
+#[OVERRIDE:127:T:TreeDeadRootSloping:leocean:56:8:5]
+#[OVERRIDE:141:T:TreeRoots:leocean24:45]
+#[OVERRIDE:127:T:TreeRootSloping:leocean:67]
+
+[OVERRIDE:182:B:ROLLERS:::dorenitems24:196]
+[OVERRIDE:199:B:ROLLERS:::dorenitems24:212]
+[OVERRIDE:207:B:ROLLERS:::dorenitems24:228]
+[OVERRIDE:209:B:ROLLERS:::dorenitems24:244]
+
+#tracks #Spacefox left tracks as default so these should work#
+
+[OVERRIDE:198:T:ConstructedFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:ConstructedFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:ConstructedFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:ConstructedFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:ConstructedFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:ConstructedFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:ConstructedFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:ConstructedFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:ConstructedFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:ConstructedFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:ConstructedFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:ConstructedFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:ConstructedFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:ConstructedFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:ConstructedFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:ConstructedRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:ConstructedRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:ConstructedRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:ConstructedRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:ConstructedRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:ConstructedRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:ConstructedRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:ConstructedRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:ConstructedRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:ConstructedRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:ConstructedRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:ConstructedRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:ConstructedRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:ConstructedRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:ConstructedRampTrackW:dorenitems24:248::]
+
+[OVERRIDE:198:T:FeatureFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:FeatureFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:FeatureFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:FeatureFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:FeatureFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:FeatureFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:FeatureFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:FeatureFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:FeatureFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:FeatureFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:FeatureFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:FeatureFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:FeatureFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:FeatureFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:FeatureFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:FeatureRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:FeatureRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:FeatureRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:FeatureRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:FeatureRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:FeatureRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:FeatureRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:FeatureRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:FeatureRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:FeatureRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:FeatureRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:FeatureRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:FeatureRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:FeatureRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:FeatureRampTrackW:dorenitems24:248::]
+
+[OVERRIDE:198:T:FrozenFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:FrozenFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:FrozenFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:FrozenFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:FrozenFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:FrozenFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:FrozenFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:FrozenFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:FrozenFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:FrozenFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:FrozenFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:FrozenFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:FrozenFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:FrozenFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:FrozenFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:FrozenRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:FrozenRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:FrozenRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:FrozenRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:FrozenRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:FrozenRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:FrozenRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:FrozenRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:FrozenRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:FrozenRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:FrozenRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:FrozenRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:FrozenRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:FrozenRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:FrozenRampTrackW:dorenitems24:248::]
+
+[OVERRIDE:198:T:LavaFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:LavaFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:LavaFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:LavaFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:LavaFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:LavaFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:LavaFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:LavaFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:LavaFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:LavaFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:LavaFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:LavaFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:LavaFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:LavaFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:LavaFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:LavaRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:LavaRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:LavaRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:LavaRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:LavaRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:LavaRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:LavaRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:LavaRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:LavaRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:LavaRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:LavaRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:LavaRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:LavaRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:LavaRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:LavaRampTrackW:dorenitems24:248::]
+
+[OVERRIDE:198:T:MineralFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:MineralFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:MineralFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:MineralFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:MineralFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:MineralFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:MineralFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:MineralFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:MineralFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:MineralFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:MineralFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:MineralFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:MineralFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:MineralFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:MineralFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:MineralRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:MineralRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:MineralRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:MineralRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:MineralRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:MineralRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:MineralRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:MineralRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:MineralRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:MineralRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:MineralRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:MineralRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:MineralRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:MineralRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:MineralRampTrackW:dorenitems24:248::]
+
+[OVERRIDE:198:T:StoneFloorTrackE:dorenitems24:210::]
+[OVERRIDE:196:T:StoneFloorTrackEW:dorenitems24:226::]
+[OVERRIDE:208:T:StoneFloorTrackN:dorenitems24:240::]
+[OVERRIDE:192:T:StoneFloorTrackNE:dorenitems24:241::]
+[OVERRIDE:193:T:StoneFloorTrackNEW:dorenitems24:242::]
+[OVERRIDE:179:T:StoneFloorTrackNS:dorenitems24:209::]
+[OVERRIDE:195:T:StoneFloorTrackNSE:dorenitems24:192::]
+[OVERRIDE:158:T:StoneFloorTrackNSEW:dorenitems24:225::]
+[OVERRIDE:180:T:StoneFloorTrackNSW:dorenitems24:211::]
+[OVERRIDE:217:T:StoneFloorTrackNW:dorenitems24:227::]
+[OVERRIDE:210:T:StoneFloorTrackS:dorenitems24:195::]
+[OVERRIDE:218:T:StoneFloorTrackSE:dorenitems24:224::]
+[OVERRIDE:194:T:StoneFloorTrackSEW:dorenitems24:193::]
+[OVERRIDE:191:T:StoneFloorTrackSW:dorenitems24:194::]
+[OVERRIDE:181:T:StoneFloorTrackW:dorenitems24:243::]
+
+[OVERRIDE:30:T:StoneRampTrackE:dorenitems24:215::]
+[OVERRIDE:30:T:StoneRampTrackEW:dorenitems24:231::]
+[OVERRIDE:30:T:StoneRampTrackN:dorenitems24:245::]
+[OVERRIDE:30:T:StoneRampTrackNE:dorenitems24:246::]
+[OVERRIDE:30:T:StoneRampTrackNEW:dorenitems24:247::]
+[OVERRIDE:30:T:StoneRampTrackNS:dorenitems24:214::]
+[OVERRIDE:30:T:StoneRampTrackNSE:dorenitems24:197::]
+[OVERRIDE:30:T:StoneRampTrackNSEW:dorenitems24:230::]
+[OVERRIDE:30:T:StoneRampTrackNSW:dorenitems24:216::]
+[OVERRIDE:30:T:StoneRampTrackNW:dorenitems24:232::]
+[OVERRIDE:30:T:StoneRampTrackS:dorenitems24:200::]
+[OVERRIDE:30:T:StoneRampTrackSE:dorenitems24:229::]
+[OVERRIDE:30:T:StoneRampTrackSEW:dorenitems24:198::]
+[OVERRIDE:30:T:StoneRampTrackSW:dorenitems24:199::]
+[OVERRIDE:30:T:StoneRampTrackW:dorenitems24:248::]
+
+############################################ Checked all below##
+[TILESET:_WIPitems24x24.png:_WIPitems24x24.png:wipitems]
+
+[OVERRIDE:1:I:CORPSE:CORPSE::wipitems:46]
+[OVERRIDE:64:I:CORPSE:CORPSE::wipitems:46]
+[OVERRIDE:67:I:CORPSE:CORPSE::wipitems:46]
+[OVERRIDE:69:I:CORPSE:CORPSE::wipitems:46]
+[OVERRIDE:142:I:CORPSE:CORPSE::wipitems:46]
+
+[OVERRIDE:85:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:101:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:103:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:107:I:CORPSE:CORPSE::wipitems:215]
+
+[OVERRIDE:11:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:15:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:16:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:37:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:42:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:65:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:66:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:68:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:70:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:71:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:72:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:73:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:74:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:75:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:76:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:77:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:78:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:79:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:80:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:82:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:83:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:84:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:87:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:89:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:97:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:98:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:99:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:100:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:102:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:104:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:105:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:106:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:108:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:109:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:110:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:111:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:112:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:114:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:115:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:116:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:118:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:119:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:126:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:157:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:149:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:149:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:224:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:234:I:CORPSE:CORPSE::wipitems:215]
+[OVERRIDE:253:I:CORPSEPIECE:CORPSEPIECE::wipitems:47]
+
+#items & buildings#
+[OVERRIDE:127:I:ANIMALTRAP:ANIMALTRAP::wipitems:4]
+#[OVERRIDE:146:I:BACKPACK:BACKPACK::wipitems:19]
+[OVERRIDE:17:I:BALLISTAARROWHEAD:BALLISTAARROWHEAD::wipitems:20] #sure
+#[OVERRIDE:220:I:BALLISTAPARTS:BALLISTAPARTS::wipitems:21] #used by doren
+[OVERRIDE:240:I:BAR:BAR::wipitems:22] #CHECK, USE probably
+#[OVERRIDE:246:I:BARREL:BARREL::wipitems:23:]
+#[OVERRIDE:233:I:BED:BED::wipitems:24]
+[OVERRIDE:88:I:BIN:BIN::wipitems:25:] #use maybe
+#[OVERRIDE:254:I:BLOCKS:BLOCKS::wipitems:26]
+[OVERRIDE:8:I:BOOK:BOOK::wipitems:27] #use
+#[OVERRIDE:7:I:BOULDER:BOULDER::wipitems:28]
+#[OVERRIDE:9:I:BOULDER:BOULDER::wipitems:29]
+#[OVERRIDE:15:I:BOULDER:BOULDER::wipitems:30]
+#[OVERRIDE:42:I:BOULDER:BOULDER::wipitems:31]
+
+#[OVERRIDE:43:I:BOULDER:BOULDER::wipitems:32]
+#[OVERRIDE:11:I:BOX:BOX::wipitems:33] #bag use below
+#[OVERRIDE:11:I:BOX:BOX::leocean16:11] #bag? use spacefox below
+#[OVERRIDE:146:I:BOX:BOX::wipitems:34] #chest? use below
+#[OVERRIDE:146:I:BOX:BOX::leocean:4] #Chest use, Leocean
+#[OVERRIDE:148:I:BRACELET:BRACELET::wipitems:35] #in use by dorens
+#[OVERRIDE:150:I:BUCKET:BUCKET::wipitems:36] #idk if I should use this one or override this
+[OVERRIDE:150:I:BUCKET:BUCKET::dorenitems24:139] #idk if I should use this one or override this
+#[OVERRIDE:227:I:CABINET:CABINET::wipitems:37]
+[OVERRIDE:19:I:CAGE:CAGE::wipitems:38:] #use
+#[OVERRIDE:220:I:CATAPULTPARTS:CATAPULTPARTS::wipitems:39]
+#[OVERRIDE:21:I:CHAIN:CHAIN::wipitems:40] #added to overrides tileset but use leocean
+#[OVERRIDE:210:I:CHAIR:CHAIR::wipitems:41]
+[OVERRIDE:37:I:CHEESE:CHEESE::wipitems:42] #use
+#[OVERRIDE:167:I:CLOTH:CLOTH::wipitems:43] #dont use, original is good enough
+[OVERRIDE:48:I:COFFIN:COFFIN::wipitems:44] #use
+[OVERRIDE:36:I:COIN:COIN::wipitems:45] #use? yeah not used above
+
+#[OVERRIDE:235:I:EARRING:EARRING::wipitems:55] #used in dorens
+#[OVERRIDE:248:I:EGG:EGG::wipitems:56] #used in leocean
+#[OVERRIDE:143:I:FIGURINE:FIGURINE::wipitems:57] #use different one, this one kinda sucks, use original I guess
+[OVERRIDE:224:I:FISH:FISH::wipitems:58] #use
+[OVERRIDE:224:I:FISH_RAW:FISH_RAW::wipitems:59] #use
+[OVERRIDE:173:I:FLASK:FLASK::wipitems:60] #use
+#[OVERRIDE:42:I:FLOODGATE:FLOODGATE::wipitems:208] #check, different from original now
+#[OVERRIDE:88:I:FLOODGATE:FLOODGATE::wipitems:211]
+#[OVERRIDE:215:I:FLOODGATE:FLOODGATE::wipitems:210]
+#[OVERRIDE:247:I:GLOB:GLOB::wipitems:68] #In use above, dorenitems24
+[OVERRIDE:20:I:GOBLET:GOBLET::wipitems:72] Use
+#[OVERRIDE:9:I:QUERN:QUERN::wipitems:117] #in use by doren
+[OVERRIDE:146:I:QUIVER:QUIVER::wipitems:118] #use
+[OVERRIDE:253:I:REMAINS:REMAINS::wipitems:119] #use
+#[OVERRIDE:148:I:RING:RING::wipitems:120] #in use in dorens
+[OVERRIDE:250:I:ROCK:ROCK::wipitems:121] #maybe need this graphic, not in use above weirdly, TEST
+#[OVERRIDE:15:I:ROUGH:ROUGH::wipitems:122] #no in use by doren, rough gems
+[OVERRIDE:45:I:SCEPTER:SCEPTER::wipitems:123] #Try
+#[OVERRIDE:250:I:SEEDS:SEEDS::wipitems:124]
+#[OVERRIDE:91:I:SHIELD:SHIELD:0:wipitems:125]
+#[OVERRIDE:91:I:SHIELD:SHIELD:1:wipitems:126]
+
+#[OVERRIDE:91:I:SHOES:SHOES:0:wipitems:127]
+#[OVERRIDE:91:I:SHOES:SHOES:1:wipitems:128]
+#[OVERRIDE:91:I:SHOES:SHOES:2:wipitems:129]
+#[OVERRIDE:91:I:SHOES:SHOES:3:wipitems:130]
+#[OVERRIDE:91:I:SHOES:SHOES:4:wipitems:131]
+#[OVERRIDE:91:I:SHOES:SHOES:5:wipitems:132]
+[OVERRIDE:17:I:SIEGEAMMO:SIEGEAMMO:1:wipitems:133] #sure
+[OVERRIDE:196:I:SIEGEAMMO:SIEGEAMMO::wipitems:134] #sure
+[OVERRIDE:174:I:SIEGEAMMO:SIEGEAMMO::wipitems:135] #sure
+[OVERRIDE:225:I:SKIN_TANNED:SKIN_TANNED::wipitems:136] #use
+[OVERRIDE:239:I:SLAB:SLAB::wipitems:137] #allow
+#[OVERRIDE:4:I:SMALLGEM:SMALLGEM::wipitems:138]
+#[OVERRIDE:159:I:SPLINT:SPLINT::wipitems:139]
+#[OVERRIDE:234:I:STATUE:STATUE::wipitems:140]
+#[OVERRIDE:209:I:TABLE:TABLE::wipitems:141]
+#[OVERRIDE:237:I:THREAD:THREAD::wipitems:142] #maybe No used in leocean
+
+#spacefox edited, original was different#
+[OVERRIDE:238:I:TOOL:TOOL:0:wipitems:143] #CAULDRON? ori 147
+
+#[OVERRIDE:47:I:TOOL:TOOL:1:wipitems:144] #LADLE ori 13 #Use dorens
+[OVERRIDE:157:I:TOOL:TOOL:2:wipitems:145] #BOWL ori 248
+[OVERRIDE:150:I:TOOL:TOOL:3:wipitems:146] #MORTAR? ori 248
+#[OVERRIDE:157:I:TOOL:TOOL:4:wipitems:147]  #PESTLE ori 47 #use dorens
+#[OVERRIDE:47:I:TOOL:TOOL:5:wipitems:148]  #KNIFE_CARVING ori #use dorens
+#[OVERRIDE:47:I:TOOL:TOOL:6:wipitems:149]  #KNIFE_BONING ori #use dorens
+#[OVERRIDE:47:I:TOOL:TOOL:7:wipitems:150]  #KNIFE_SLICING ori #use dorens
+#[OVERRIDE:47:I:TOOL:TOOL:8:wipitems:151]  #KNIFE_MEAT_CLEAVER ori #use dorens
+#[OVERRIDE:47:I:TOOL:TOOL:9:wipitems:152]  #FORK_CARVING ori
+#[OVERRIDE:8:I:TOOL:TOOL:10:wipitems:153]  #NEST_BOX ori 8
+[OVERRIDE:173:I:TOOL:TOOL:11:wipitems:154] #TOOL_JUG ori 229
+[OVERRIDE:232:I:TOOL:TOOL:12:wipitems:155] #LARGE_POT ori
+[OVERRIDE:238:I:TOOL:TOOL:12:wipitems:155] #LARGE_POT ori
+#[OVERRIDE:227:I:TOOL:TOOL:13:wipitems:156] #HIVE ori 22 in use by doren items24x24
+[OVERRIDE:15:I:TOOL:TOOL:14:wipitems:157] #HONEYCOMB ori 236
+[OVERRIDE:11:I:TOOL:TOOL:15:wipitems:158] #POUCH ori 173
+[OVERRIDE:152:I:TOOL:TOOL:16:wipitems:159:] #minecart ori 254 already good in spacefox original/OVERRRIDEE
+[OVERRIDE:152:I:TOOL:TOOL:17:wipitems:160] #wheelbarrow, not used above ori 153 USE
+[OVERRIDE:158:I:TOOL:TOOL:18:wipitems:161] #STEPLADDER, USE
+[OVERRIDE:135:I:TOTEM:TOTEM::wipitems:162] #probably 151
+[OVERRIDE:151:I:TOTEM:TOTEM::wipitems:162]
+
+##dorenitems2424x24 tools##
+[OVERRIDE:47:I:TOOL:TOOL:1:dorenitems24:42] #LADLE ori 13 #Use dorens
+[OVERRIDE:157:I:TOOL:TOOL:4:dorenitems24:43] #PESTLE ori 47 #use dorens
+[OVERRIDE:47:I:TOOL:TOOL:5:dorenitems24:44] #KNIFE_CARVING ori    #use dorens
+[OVERRIDE:47:I:TOOL:TOOL:6:dorenitems24:44] #KNIFE_BONING ori   #use dorens
+[OVERRIDE:47:I:TOOL:TOOL:7:dorenitems24:44]  #KNIFE_SLICING ori   #use dorens
+[OVERRIDE:47:I:TOOL:TOOL:8:dorenitems24:45] #KNIFE_MEAT_CLEAVER ori   #use dorens
+[OVERRIDE:47:I:TOOL:TOOL:9:dorenitems24:46]   #FORK_CARVING ori   #use dorens
+#[OVERRIDE:15:I:TOOL:TOOL:14:dorenitems24:47] #HONEYCOMB ori 236 #NOOOO
+#[OVERRIDE:11:I:TOOL:TOOL:15:dorenitems24:48] #POUCH ori 173 #NOOOO
+#[OVERRIDE:179:I:TOOL:TOOL:18:dorenitems24:49] #STEPLADDER, don't know
+#[OVERRIDE:8:I:TOOL:TOOL:10:dorenitems24:10] #NEST_BOX ori 8
+[OVERRIDE:227:I:TOOL:TOOL:13:dorenitems24:16] #HIVE ori 22
+#[OVERRIDE:152:I:TOOL:TOOL::dorenitems24:26] #wheelbarrow
+
+#[OVERRIDE:145:I:TOY:TOY:0:wipitems:163]
+[OVERRIDE:145:I:TOY:TOY:0:leocean:18] #this is just for enchanced version, other versions would have more toys
+#spacefox edited, original was different# END#
+
+#[OVERRIDE:145:I:TOY:TOY:1:wipitems:164]
+#[OVERRIDE:145:I:TOY:TOY:2:wipitems:165]
+#[OVERRIDE:145:I:TOY:TOY:3:wipitems:166]
+#[OVERRIDE:145:I:TOY:TOY:4:wipitems:167]
+[OVERRIDE:232:I:TRACTION_BENCH:TRACTION_BENCH::wipitems:168] #use
+#[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:0:wipitems:169]
+#[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:1:wipitems:170]
+#[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:2:wipitems:171]
+#[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:3:wipitems:172]
+#[OVERRIDE:228:I:TRAPCOMP:TRAPCOMP:4:wipitems:173]
+#[OVERRIDE:128:I:TRAPPARTS:TRAPPARTS::wipitems:174]
+#[OVERRIDE:47:I:WEAPON:WEAPON:0:wipitems:175]
+
+#[OVERRIDE:47:I:WEAPON:WEAPON:1:wipitems:176]
+#[OVERRIDE:47:I:WEAPON:WEAPON:2:wipitems:177]
+#[OVERRIDE:47:I:WEAPON:WEAPON:3:wipitems:178]
+#[OVERRIDE:47:I:WEAPON:WEAPON:4:wipitems:179]
+#[OVERRIDE:47:I:WEAPON:WEAPON:5:wipitems:180]
+#[OVERRIDE:47:I:WEAPON:WEAPON:6:wipitems:181]
+#[OVERRIDE:47:I:WEAPON:WEAPON:7:wipitems:182]
+#[OVERRIDE:47:I:WEAPON:WEAPON:8:wipitems:183]
+#[OVERRIDE:47:I:WEAPON:WEAPON:9:wipitems:184]
+#[OVERRIDE:47:I:WEAPON:WEAPON:10:wipitems:185]
+#[OVERRIDE:47:I:WEAPON:WEAPON:11:wipitems:186]
+#[OVERRIDE:47:I:WEAPON:WEAPON:12:wipitems:187]
+#[OVERRIDE:47:I:WEAPON:WEAPON:13:wipitems:188]
+#[OVERRIDE:47:I:WEAPON:WEAPON:14:wipitems:189]
+#[OVERRIDE:47:I:WEAPON:WEAPON:15:wipitems:190]
+#[OVERRIDE:47:I:WEAPON:WEAPON:16:wipitems:191]
+
+#[OVERRIDE:47:I:WEAPON:WEAPON:17:wipitems:192]
+#[OVERRIDE:47:I:WEAPON:WEAPON:18:wipitems:193]
+#[OVERRIDE:47:I:WEAPON:WEAPON:19:wipitems:194]
+#[OVERRIDE:47:I:WEAPON:WEAPON:20:wipitems:195]
+#[OVERRIDE:47:I:WEAPON:WEAPON:21:wipitems:196]
+#[OVERRIDE:47:I:WEAPON:WEAPON:22:wipitems:197]
+#[OVERRIDE:47:I:WEAPON:WEAPON:23:wipitems:198]
+#[OVERRIDE:251:I:WEAPONRACK:WEAPONRACK::wipitems:199]
+#[OVERRIDE:177:I:WINDOW:WINDOW::wipitems:200]
+[OVERRIDE:22:I:WOOD:WOOD::wipitems:201] #sure allow
+
+
+# Fricy's extras - http://www.bay12forums.com/smf/index.php?topic=150753.msg6302417#msg6302417
+#[OVERRIDE:14:B:ARMOR_STAND:Armorstand::wipitems:18]
+#[OVERRIDE:233:B:BED:Bed::wipitems:24]
+#[OVERRIDE:11:B:BOX:Box::wipitems:33] #bag? use below
+#[OVERRIDE:11:B:BOX:Box::leocean16:11] #bag? use spacefox below
+#[OVERRIDE:146:B:BOX:Box::wipitems:34] #chest use below
+#[OVERRIDE:146:B:BOX:Box::leocean:4] #Chest use below
+#[OVERRIDE:227:B:CABINET:Cabinet::wipitems:37]
+[OVERRIDE:19:B:CAGE:Cage::wipitems:38:14] #use cage
+[OVERRIDE:94:B:CAGE:Cage::wipitems:4] #use trap
+#[OVERRIDE:21:B:CHAIN:Chain::wipitems:40] #added to overrides tileset but use leocean
+#[OVERRIDE:210:B:CHAIR:Chair::wipitems:41]
+[OVERRIDE:48:B:COFFIN:Coffin::wipitems:44] #yes allow, May use Dibujor's instead
+#[OVERRIDE:15:B:DOOR:Door::wipitems:50:16]
+#[OVERRIDE:79:B:DOOR:Door::wipitems:51:16]
+#[OVERRIDE:186:B:DOOR:Door::wipitems:52:16]
+#[OVERRIDE:197:B:DOOR:Door::wipitems:53:16]
+#[OVERRIDE:240:B:DOOR:Door::wipitems:54:16]
+#[OVERRIDE:42:B:FLOODGATE:Floodgate::wipitems:61:16] #check above, dorenitems24 in use atm 61 tile #
+#[OVERRIDE:88:B:FLOODGATE:Floodgate::wipitems:62:16]
+#[OVERRIDE:215:B:FLOODGATE:Floodgate::wipitems:63:14:16]
+#[OVERRIDE:35:B:GRATE_FLOOR:GrateFloor::wipitems:213]
+#[OVERRIDE:215:B:GRATE_WALL:GrateWall::wipitems:214]
+#[OVERRIDE:155:B:HATCH:Hatch::wipitems:74] #unlikely but image is in overrides
+#[OVERRIDE:9:B:WORKSHOP_MILLSTONE:Workshop::wipitems:89]
+#[OVERRIDE:9:B:WORKSHOP_QUERN:Workshop::wipitems:117]
+[OVERRIDE:239:B:SLAB:Slab::wipitems:137] #allow
+#[OVERRIDE:234:B:STATUE:Statue::wipitems:140]
+#[OVERRIDE:209:B:TABLE:Table::wipitems:141]
+[OVERRIDE:232:B:TRACTION_BENCH:TractionBench::wipitems:168] #allow
+#[OVERRIDE:127:B:TRAP:AnimalTrap::wipitems:4]
+#[OVERRIDE:94:B:TRAP:Trap::wipitems:4]
+#[OVERRIDE:251:B:WEAPON_RACK:Weaponrack::wipitems:199]
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGem::wipitems:200]
+#[OVERRIDE:177:B:WINDOW_ANY:WindowGlass::wipitems:200]
+#[OVERRIDE:08:B:NEST_BOX:NestBox::wipitems:156]
+#[OVERRIDE:09:B:WELL:Well::wipitems:202] don't use
+[OVERRIDE:61:B:STOCKPILE:Stockpile::wipitems:219] #yes allow wooden stockpile, CHECK/Fixed to greyscale
+[OVERRIDE:73:B:SUPPORT:Support::wipitems:205] #yes allow
+
+[TILESET:_leoceanoverrides16x16.png:_leoceanoverrides16x16.png:leocean16]
+
+[OVERRIDE:11:I:BOX:BOX::leocean16:11] #bag
+[OVERRIDE:11:B:BOX:Box::leocean16:11] #bag
+[OVERRIDE:146:I:BOX:BOX::leocean16:4] #Chest
+[OVERRIDE:146:B:BOX:Box::leocean16:4] #Chest
+
+#Fortifications #Change these#
+[OVERRIDE:206:T:ConstructedFortification:leocean16:70]
+[OVERRIDE:206:T:StoneFortification:leocean16:70]
+[OVERRIDE:206:T:MineralFortification:leocean16:70]
+[OVERRIDE:206:T:LavaFortification:leocean16:70]
+[OVERRIDE:206:T:FeatureFortification:leocean16:70]
+[OVERRIDE:206:T:FrozenFortification:leocean16:70]
+
+[OVERRIDE:227:B:CABINET:Cabinet::leocean16:227]
+[OVERRIDE:227:I:CABINET:CABINET::leocean16:227]
+
+[TILESET:_leoceanoverrides24x24.png:_leoceanoverrides24x24.png:leocean24]
+
+[OVERRIDE:42:I:BOULDER:::leocean24:252] #check for now use was 253, added dibujors instead, Further down more indepth
+[OVERRIDE:7:I:BOULDER:BOULDER::leocean24:252]
+[OVERRIDE:9:I:BOULDER:BOULDER::leocean24:252]
+[OVERRIDE:15:I:BOULDER:BOULDER::leocean24:252]
+[OVERRIDE:43:I:BOULDER:BOULDER::leocean24:252]
+
+#dorenitems24 overrides/Wip by utkonos# Treeroots #CHECK
+[OVERRIDE:141:T:TreeDeadRoots:leocean24:45:8:5]
+[OVERRIDE:127:T:TreeDeadRootSloping:leocean:56:8:5]
+[OVERRIDE:141:T:TreeRoots:leocean24:45]
+[OVERRIDE:127:T:TreeRootSloping:leocean:67]
+
+#tree trunk pillar#
+#[OVERRIDE:10:T:TreeTrunkPillar:leocean:33::]
+#[OVERRIDE:10:T:TreeDeadTrunkPillar:leocean:33::]
+#[OVERRIDE:79:T:TreeCapPillar:leocean:101]
+#[OVERRIDE:79:T:TreeDeadCapPillar:leocean:118]
+
+#Pillars, due to change# This seems to be weird 1 isn't correct? 0 seems to be spacefox16x16
+[OVERRIDE:10:T:StonePillar:leocean16:76:]
+[OVERRIDE:10:T:MineralPillar:leocean16:76:]
+[OVERRIDE:10:T:ConstructedPillar:leocean16:76:]
+[OVERRIDE:10:T:FrozenPillar:leocean16:76]
+[OVERRIDE:10:T:LavaPillar:leocean16:76:]
+[OVERRIDE:10:T:FeaturePillar:leocean16:76:] #was 72
+
+#Secondary Pillars#
+
+#[OVERRIDE:10:T:StonePillar:leocean16:66:8]
+#[OVERRIDE:10:T:MineralPillar:leocean16:66:8]
+#[OVERRIDE:10:T:ConstructedPillar:leocean16:66:8]
+#[OVERRIDE:10:T:FrozenPillar:leocean16:66]
+#[OVERRIDE:10:T:LavaPillar:leocean16:66:8]
+#[OVERRIDE:10:T:FeaturePillar:leocean16:66:8]
+
+
+#[OVERRIDE:43:T:ConstructedFloor:8:0:8]
+
+
+
+[OVERRIDE:240:I:DOOR:DOOR::leocean24:198]#metal door
+[OVERRIDE:240:B:DOOR:Door::leocean24:198]#metal door
+
+[TILESET:_WIPoverridesWorkshops24x24.png:_WIPoverridesWorkshops24x24.png:wipworkshops]
+
+[OVERRIDE:178:B:WAGON:Wagon::wipworkshops:51] #use
+#![OVERRIDE:09:B:AXLE_VERTICAL:AxleVertical::wipworkshops:52]
+#![OVERRIDE:111:B:AXLE_VERTICAL:AxleVertical::wipworkshops:53]
+#![OVERRIDE:186:B:AXLE_HORIZONTAL:AxleHorizontal::wipworkshops:54]
+#![OVERRIDE:179:B:AXLE_HORIZONTAL:AxleHorizontal::wipworkshops:55]
+#![OVERRIDE:205:B:AXLE_HORIZONTAL:AxleHorizontal::wipworkshops:56]
+#![OVERRIDE:196:B:AXLE_HORIZONTAL:AxleHorizontal::wipworkshops:57]
+#![OVERRIDE:15:B:GEAR_ASSEMBLY:GearAssembly::wipworkshops:58]
+#![OVERRIDE:42:B:GEAR_ASSEMBLY:GearAssembly::wipworkshops:59]
+#![OVERRIDE:79:B:WINDMILL:Windmill::wipworkshops:60]
+#![OVERRIDE:179:B:WINDMILL:Windmill::wipworkshops:61]
+#![OVERRIDE:196:B:WINDMILL:Windmill::wipworkshops:61]
+#![OVERRIDE:205:B:WINDMILL:Windmill::wipworkshops:62]
+#![OVERRIDE:186:B:WINDMILL:Windmill::wipworkshops:63]
+[OVERRIDE:219:B:TRADE_DEPOT:TradeDepot::wipworkshops:64] #use
+[OVERRIDE:79:B:TRADE_DEPOT:TradeDepot::wipworkshops:65] #use
+#![OVERRIDE:196:B:WATER_WHEEL:WaterWheel::wipworkshops:66]
+#![OVERRIDE:205:B:WATER_WHEEL:WaterWheel::wipworkshops:67]
+#![OVERRIDE:179:B:WATER_WHEEL:WaterWheel::wipworkshops:68]
+#![OVERRIDE:186:B:WATER_WHEEL:WaterWheel::wipworkshops:69]
+
+
+#Workshops WIP#
+
+#![OVERRIDE:7:B:WORKSHOP_FORGE_ANY:Workshop::wipworkshops:0]
+#![OVERRIDE:196:B:WORKSHOP_FORGE_ANY:Workshop::wipitems:41]
+#![OVERRIDE:92:B:WORKSHOP_MAGMA_FORGE:Workshop::wipworkshops:0:13:1]
+#![OVERRIDE:7:B:FURNACE_ANY:Furnace::wipworkshops:0]
+#![OVERRIDE:8:B:WORKSHOP_ANY:Workshop::wipworkshops:1]
+#![OVERRIDE:34:B:WORKSHOP_CARPENTER:Workshop::wipworkshops:2]
+#![OVERRIDE:40:B:WORKSHOP_BOWYER:Workshop::wipitems:183]
+#![OVERRIDE:59:B:WORKSHOP_MASON:Workshop::wipworkshops:4]
+#![OVERRIDE:59:B:WORKSHOP_KITCHEN:Workshop::wipworkshops:5]
+#![OVERRIDE:65:B:WORKSHOP_FARMER:Workshop::wipworkshops:6]
+#![OVERRIDE:79:B:WORKSHOP_FARMER:Workshop::wipworkshops:7]
+#![OVERRIDE:93:B:FURNACE_ANY:Furnace::wipworkshops:8]
+#![OVERRIDE:93:B:FURNACE_ANY:Furnace::wipworkshops:8]
+#![OVERRIDE:93:B:WORKSHOP_ANY:Workshop::wipworkshops:9]
+#![OVERRIDE:94:B:WORKSHOP_MECHANIC:Workshop::wipworkshops:10]
+#![OVERRIDE:111:B:FURNACE_ANY:Furnace::wipworkshops:11]
+#![OVERRIDE:123:B:WORKSHOP_JEWELER:Workshop::wipworkshops:12]
+#![OVERRIDE:127:B:WORKSHOP_MECHANIC:Workshop::wipworkshops:13]
+#![OVERRIDE:210:B:WORKSHOP_FARMER:Workshop::wipitems:41]
+#![OVERRIDE:91:B:WORKSHOP_ANY:Workshop::wipitems:41]
+#![OVERRIDE:240:B:WORKSHOP_FORGE_ANY:Workshop::wipitems:22]
+#![OVERRIDE:31:B:WORKSHOP_ANY:Workshop::wipworkshops:16]
+#![OVERRIDE:240:B:WORKSHOP_FARMER:Workshop::wipworkshops:17]
+#![OVERRIDE:195:B:WORKSHOP_LOOM:Workshop::wipworkshops:18]
+#![OVERRIDE:35:B:WORKSHOP_LOOM:Workshop::wipworkshops:19]
+#![OVERRIDE:180:B:WORKSHOP_LOOM:Workshop::wipworkshops:20]
+#![OVERRIDE:42:B:WORKSHOP_JEWELER:Workshop::wipitems:67]
+#![OVERRIDE:45:B:WORKSHOP_CRAFTSDWARF:Workshop::wipworkshops:22]
+#![OVERRIDE:92:B:WORKSHOP_LEATHER:Workshop::wipworkshops:23]
+#![OVERRIDE:176:B:WORKSHOP_ANY:Workshop::wipitems:141]
+#![OVERRIDE:177:B:WORKSHOP_ANY:Workshop::wipworkshops:24]
+#![OVERRIDE:178:B:WORKSHOP_ANY:Workshop::wipitems:141]
+#![OVERRIDE:236:B:WORKSHOP_BUTCHER:Workshop::wipworkshops:26]
+#![OVERRIDE:236:B:WORKSHOP_KITCHEN:Workshop::wipworkshops:27]
+#![OVERRIDE:224:B:WORKSHOP_FISHERY:Workshop::wipworkshops:28]
+#![OVERRIDE:35:B:WORKSHOP_FISHERY:Workshop::wipworkshops:13]
+#![OVERRIDE:88:B:WORKSHOP_ASHERY:Workshop::wipworkshops:11]
+#![OVERRIDE:111:B:WORKSHOP_SIEGE:Workshop::wipworkshops:11]
+#![OVERRIDE:240:B:WORKSHOP_CUSTOM:Workshop::wipworkshops:3]
+#![OVERRIDE:207:B:WORKSHOP_ANY:Workshop::wipworkshops:14::8]
+#![OVERRIDE:7:B:WORKSHOP_DYER:Workshop::wipworkshops:15::8]
+#![OVERRIDE:35:B:WORKSHOP_KENNEL:Workshop::wipworkshops:29]
+#![OVERRIDE:111:B:WORKSHOP_STILL:Workshop::wipworkshops:11]
+#![OVERRIDE:246:B:WORKSHOP_STILL:Workshop::wipworkshops:44:]
+#![OVERRIDE:205:B:WORKSHOP_STILL:Workshop::wipworkshops:45]
+#![OVERRIDE:184:B:WORKSHOP_STILL:Workshop::wipworkshops:46]
+#![OVERRIDE:126:B:WORKSHOP_STILL:Workshop::wipworkshops:47]
+#![OVERRIDE:246:B:WORKSHOP_ASHERY:Workshop::wipitems:23:]
+#![OVERRIDE:40:B:WORKSHOP_BOWYER:Workshop::wipworkshops:41]
+
+
+#Smooth stone floor#
+
+#[OVERRIDE:43:T:StoneFloorSmooth:wipworkshops:241]
+#[OVERRIDE:43:T:MineralFloorSmooth:wipworkshops:241]
+#[OVERRIDE:43:T:FrozenFloorSmooth:wipworkshops:241]
+#[OVERRIDE:247:T:StoneFloorSmooth:wipworkshops:241]
+#[OVERRIDE:247:T:MineralFloorSmooth:wipworkshops:241]
+#[OVERRIDE:247:T:FrozenFloorSmooth:wipworkshops:241]
+#[OVERRIDE:43:T:LavaFloorSmooth:wipworkshops:241]
+#[OVERRIDE:43:T:FeatureFloorSmooth:wipworkshops:241]
