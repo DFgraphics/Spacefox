@@ -256,6 +256,15 @@ This allows you to control the number of babies+children in your fortress.  The 
 
 [BABY_CHILD_CAP:10:20]
 
+You can set the maximum number of visitors to your fort here.  This does not include merchants, diplomats, animals or invaders, but only those either dropping by for a temporary visit to a tavern, library or temple, or those seeking permanent employment.  Once you accept a petition from a visitor to stay at your fort, they no longer count against the cap, even if they never become a full citizen.
+
+[VISITOR_CAP:100]
+
+You can set the maximum number of soldiers allowed to invade in serious invasions with these numbers.  This doesn't affect smaller raids or mounts, and ambushers and other special units will also ignore the cap.  Set INVADERS to NO above if you don't want invaders -- a cap of zero will be ignored here.
+
+[INVASION_SOLDIER_CAP:120]
+[INVASION_MONSTER_CAP:40]
+
 Use the specific seed cap to set the maximum number of seeds of each kind generally allowed in the fortress.  Use the fortress seed cap to control the overall number of seeds allowed.  Seeds over the global cap will be periodically removed, starting with the oldest and most worthless seeds.
 
 [SPECIFIC_SEED_CAP:200]
