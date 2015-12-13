@@ -1811,6 +1811,7 @@ Uristocrat did the density values.
 	[USE_MATERIAL_TEMPLATE:EGG:EGG_YOLK_TEMPLATE]
 		[STATE_COLOR:ALL:GREEN]
 		[DISPLAY_COLOR:4:0:1]
+		[STOCKPILE_PLANT_GROWTH]
 		*** need to go w/ all egg mats when growths support it
 		*** template currently implies animal kill
 	[TREE:LOCAL_PLANT_MAT:WOOD][TREE_TILE:23]
