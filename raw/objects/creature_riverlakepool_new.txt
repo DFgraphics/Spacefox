@@ -699,6 +699,7 @@ Leeches were sponsored by the generous contributions of the Bay 12 community.
 	[CANNOT_JUMP]
 	[NO_SLEEP]
 	[NO_DIZZINESS]
+	[EXTRAVISION]
 	[SET_TL_GROUP:BY_CATEGORY:ALL:SKIN]
 		[TL_COLOR_MODIFIER:BLACK:1]
 			[TLCM_NOUN:skin:SINGULAR]

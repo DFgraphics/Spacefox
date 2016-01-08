@@ -78,7 +78,7 @@ http://www.bay12forums.com/smf/index.php?topic=80022.0
 [INORGANIC:DOLOMITE]
 [USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
 [STATE_NAME_ADJ:ALL_SOLID:dolomite][DISPLAY_COLOR:7:7:1][TILE:137]
-[REACTION_CLASS:FLUX] not CaCO3, has Mg, maked "calcined dolomite" in calcination instead of quicklime, not sure of effective differences
+[REACTION_CLASS:FLUX] not CaCO3, has Mg, makes "calcined dolomite" in calcination instead of quicklime, not sure of effective differences
 [SEDIMENTARY]
 [MATERIAL_VALUE:2]
 [IS_STONE]

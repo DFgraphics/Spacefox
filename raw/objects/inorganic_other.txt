@@ -72,7 +72,7 @@ inorganic_other
 	[STATE_NAME:ALL:quicklime]
 	[STATE_NAME_ADJ:ALL:quicklime]
 	[DISPLAY_COLOR:7:7:1][TILE:'#']
-	[SOLID_DENSITY:*******]
+	[SOLID_DENSITY:3340]
 	[MATERIAL_VALUE:10]
 
 [INORGANIC:MILK_OF_LIME] limewater / hydrated calcium oxide
