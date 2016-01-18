@@ -531,7 +531,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RATFISH_SPOTTED]
-	[DESCRIPTION:A small, shark-like creature that lives in the ocean’s muddy shallows.  Its skin sparkles and it has a venomous spine on its back.]
+	[DESCRIPTION:A small, shark-like creature that lives in the ocean's muddy shallows.  Its skin sparkles and it has a venomous spine on its back.]
 	[NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CREATURE_TILE:160][COLOR:6:0:0]
