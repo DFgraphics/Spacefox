@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:0]
 [WINDOWEDY:0]
-[FONT:Spacefox_16x16_text.png]
+[FONT:Spacefox_16x16_0ther.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:YES]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:0]
 [FULLSCREENY:0]
-[FULLFONT:Spacefox_16x16_text.png]
+[FULLFONT:Spacefox_16x16_0ther.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.

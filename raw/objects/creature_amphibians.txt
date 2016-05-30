@@ -6,7 +6,7 @@ creature_amphibians
 	[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry areas.]
 	[NAME:toad:toads:toad]
 	[CASTE_NAME:toad:toads:toad]
-	[CREATURE_TILE:163][COLOR:2:0:0]
+	[CREATURE_TILE:249][COLOR:2:0:0]
 	[PETVALUE:10]
 	[VERMIN_GROUNDER][FREQUENCY:100][VERMIN_HATEABLE]
 	[AMPHIBIOUS][SMALL_REMAINS][NO_WINTER][UNDERSWIM]
