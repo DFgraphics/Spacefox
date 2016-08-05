@@ -1,4 +1,4 @@
-These are the display colors in RGB.  The game is actually displaying extended ASCII characters in OpenGL, so you can modify the colors.
+Spacefox colors
 
 [BLACK_R:32]
 [BLACK_G:39]

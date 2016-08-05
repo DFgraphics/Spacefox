@@ -8,7 +8,7 @@ circumstances, unpack a new DF on top of an older one.
 
 Change this to turn sound off.
 
-[SOUND:NO]
+[SOUND:YES]
 
 The sound volume runs from 0 (off) to 255 (full).  You can set the volume from the ESC options menu as well.
 
@@ -16,7 +16,7 @@ The sound volume runs from 0 (off) to 255 (full).  You can set the volume from t
 
 Change this to skip the wonderful intro movies.
 
-[INTRO:NO]
+[INTRO:YES]
 
 This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or PROMPT.
 
@@ -25,8 +25,8 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:0]
-[WINDOWEDY:0]
+[WINDOWEDX:80]
+[WINDOWEDY:25]
 [FONT:Spacefox_16x16_0ther.png]
 
 You may disable window resizing if you wish.
@@ -43,7 +43,7 @@ If this is set to YES, the tiles will not be stretched, but rather the game view
 
 [BLACK_SPACE:YES]
 
-Graphics info, most of it as above.  Set GRAPHICS to YES to turn it all on.  This will use the "raw/graphics" folder for tile information.  Currently this is limited to whatever creature graphics you have downloaded.  The game comes with a few pictures to demonstrate.  As of January 2016, the Dwarf Fortress Wiki has custom tilesets available at http://dwarffortresswiki.org/index.php/Tileset_repository and creature graphics at http://dwarffortresswiki.org/index.php/Graphics_set_repository.
+Graphics info, most of it as above.  Set GRAPHICS to YES to turn it all on.  This will use the "raw/graphics" folder for tile information.  Currently this is limited to whatever creature graphics you have downloaded.  The game comes with a few pictures to demonstrate.  As of July 2016, the Dwarf Fortress Wiki has custom tilesets available at http://dwarffortresswiki.org/index.php/Tileset_repository and creature graphics at http://dwarffortresswiki.org/index.php/Graphics_set_repository.
 
 [GRAPHICS:YES]
 [GRAPHICS_WINDOWEDX:0]
@@ -83,7 +83,7 @@ Change this to YES to keep the DF window on top of your other windows.
 
 Change this to YES if you want to see an FPS counter at the top left.
 
-[FPS:YES]
+[FPS:NO]
 
 Use this to set the maximum frame rate during play.  The movies are always capped at 100.  A frame in this case is not graphical but related to the movement speed of a creature.  A healthy, unencumbered dwarven peasant takes one step every 10 frames.
 
@@ -93,7 +93,7 @@ You may set FPS_CAP to 0 to make it uncapped.
 
 Use this to set the maximum graphical frame refresh rate during play.
 
-[G_FPS_CAP:25]
+[G_FPS_CAP:50]
 
 On cards that support the OpenGL ARB_sync extension, turning this on can improve framerates in GPU overload conditions. It defaults to NO, as many cards that claim to support this will crash if asked to do so.
 
@@ -101,7 +101,7 @@ On cards that support the OpenGL ARB_sync extension, turning this on can improve
 
 This sets the applications vertical synchronization behavior.  Changing this to YES can impact your FPS if your G_FPS is high. ARB_SYNC is a better option, if your system supports it.
 
-[VSYNC:YES]
+[VSYNC:NO]
 
 Change this to NEAREST if you want the texture values to use the nearest pixel without averaging.
 Change this to LINEAR if you want the texture values to be averaged over the adjacent pixels.
@@ -115,7 +115,7 @@ Change this to make the dwarfort.exe process have a different priority.  From hi
 Use this to set how fast the game zooms.  The default corresponds to
 increasing grid size by 10 units each time you zoom.
 
-[ZOOM_SPEED:5]
+[ZOOM_SPEED:10]
 
 Change this to NO if you don't want to have the mouse involved at all.
 
@@ -140,7 +140,7 @@ If you set KEY_REPEAT_ACCEL_LIMIT above one, then after KEY_REPEAT_ACCEL_START r
 
 This controls the number of milliseconds between macro instructions.
 
-[MACRO_MS:0]
+[MACRO_MS:15]
 
 This controls the number of milliseconds that must pass before input works again after the view recenters on an event in dwarf mode.
 
