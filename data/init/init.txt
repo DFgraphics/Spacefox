@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:80]
 [WINDOWEDY:25]
-[FONT:Spacefox_16x16_0ther.png]
+[FONT:Spacefox_16x16_text.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:YES]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:0]
 [FULLSCREENY:0]
-[FULLFONT:Spacefox_16x16_0ther.png]
+[FULLFONT:Spacefox_16x16_text.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
@@ -65,7 +65,11 @@ On a multi-core machine none of this is very likely to matter; stick to 2D.
 Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
 [PRINT_MODE:2D]
-PRINT_MODE:STANDARD needed for twbt, PRINT_MODE:2D needed for true type
+
+PRINT_MODE:TWBT - needed for Text Will Be Text
+PRINT_MODE:STANDARD - needed for Nearest scaling
+PRINT_MODE:2D needed - for true type font-support
+
 	Mode examples:
 	 PRINT_MODE:2D
 	 PRINT_MODE:TEXT

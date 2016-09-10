@@ -8,15 +8,6 @@ circumstances, unpack a new DF on top of an older one.
 
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
-Always read the file carefully, including the comments.
-
-In general, you can copy savegames and tilesets from older DF
-versions, but you should not copy anything else.  You should not, under any
-circumstances, unpack a new DF on top of an older one.
-
-
-Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
-
 [AUTOSAVE:NONE]
 [AUTOBACKUP:NO]
 [AUTOSAVE_PAUSE:NO]
