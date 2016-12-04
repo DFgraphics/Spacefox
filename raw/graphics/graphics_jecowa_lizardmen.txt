@@ -3,7 +3,7 @@ graphics_jecowa_lizardmen
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:JEC_LIZMEN]
-	[FILE:Jecowa/lizard_men.png]
+	[FILE:jecowa/lizard_men.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:5:1]
 
