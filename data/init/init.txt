@@ -65,11 +65,6 @@ On a multi-core machine none of this is very likely to matter; stick to 2D.
 Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 
 [PRINT_MODE:2D]
-
-PRINT_MODE:TWBT - needed for Text Will Be Text
-PRINT_MODE:STANDARD - needed for Nearest scaling
-PRINT_MODE:2D needed - for true type font-support
-
 	Mode examples:
 	 PRINT_MODE:2D
 	 PRINT_MODE:TEXT

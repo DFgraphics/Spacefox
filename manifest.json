@@ -1,9 +1,10 @@
 {
     "author": "Spacefox, LeoCean, Nopal",
-    "content_version": "",
+    "url": "https://github.com/DFgraphics/Spacefox",
+    "content_version": "2017-12-09",
     "df_min_version": "0.44.01",
     "df_max_version": "0.44.02",
-    "title": "Spacefox 16px",
     "folder_prefix": "Spacefox",
-    "tooltip": "Clean, simple, and cheerful - graphics with a style quite unlike the game.\nHighly distinctive and (like Phoebus) popular among new players."
+    "title": "Spacefox 16x",
+    "tooltip": "A simple, clean look."
 }
