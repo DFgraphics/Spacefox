@@ -1,6 +1,6 @@
 graphics_nopal_e_vermins
 
-[OBJECTS:GRAPHICS]
+[OBJECT:GRAPHICS]
 
 [TILE_PAGE:EVER]
         [FILE:nopal/e_vermins.png]

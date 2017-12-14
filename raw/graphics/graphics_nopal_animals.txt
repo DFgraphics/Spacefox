@@ -1,6 +1,6 @@
 graphics_nopal_animals_w
 
-[OBJECTS:GRAPHICS]
+[OBJECT:GRAPHICS]
 
 [TILE_PAGE:NPW]
         [FILE:nopal/animals_w.png]
