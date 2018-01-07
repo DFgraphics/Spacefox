@@ -48,10 +48,10 @@ Graphics info, most of it as above.  Set GRAPHICS to YES to turn it all on.  Thi
 [GRAPHICS:YES]
 [GRAPHICS_WINDOWEDX:0]
 [GRAPHICS_WINDOWEDY:0]
-[GRAPHICS_FONT:Spacefox_16x16.png]
+[GRAPHICS_FONT:Spacefox_16x16_Next.png]
 [GRAPHICS_FULLSCREENX:0]
 [GRAPHICS_FULLSCREENY:0]
-[GRAPHICS_FULLFONT:Spacefox_16x16.png]
+[GRAPHICS_FULLFONT:Spacefox_16x16_Next.png]
 [GRAPHICS_BLACK_SPACE:YES]
 
 These settings can have a significant impact on frame rate, especially for people that have slow frame rates on the title screen.  Available modes are 2D, 2DSW, 2DASYNC, STANDARD, PARTIAL:<number>, ACCUM_BUFFER, FRAME_BUFFER and VBO. The number after PARTIAL refers to how many frames it will redo a printed tile before skipping it, so you might try increasing it a bit if you have flickering when PARTIAL is set.  Please note that any of these combinations might cause frame rates to drop significantly or cause unpleasant side effects like flickering.
