@@ -234,7 +234,7 @@ creature_large_riverlake
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CARP]
-	[DESCRIPTION:A medium-sized fish found in lakes and streams.  They are bottom-feeders and tend to gather groups.]
+	[DESCRIPTION:A medium-sized fish found in lakes and streams.  They are bottom-feeders and tend to gather in groups.]
 	[NAME:carp:carp:carp]
 	[CASTE_NAME:carp:carp:carp]
 	[CHILD:1][GENERAL_CHILD_NAME:carp fry:carp fry]

@@ -537,8 +537,8 @@ creature_large_ocean
 
 [CREATURE:SHARK_WHALE]
 	[DESCRIPTION:A gigantic filter-feeding fish found in tropical oceans.]
-	[NAME:whale shark:whale sharks:shale shark]
-	[CASTE_NAME:whale shark:whale sharks:shale shark]
+	[NAME:whale shark:whale sharks:whale shark]
+	[CASTE_NAME:whale shark:whale sharks:whale shark]
 	[CHILD:1][GENERAL_CHILD_NAME:whale shark pup:whale shark pups]
 	[CREATURE_TILE:'W'][COLOR:6:0:0]
 	[LARGE_ROAMING]
@@ -1851,7 +1851,7 @@ creature_large_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_CONGER_EEL]
-	[DESCRIPTION:A medium-sized, brown, snake-like fish found in freshwater.]
+	[DESCRIPTION:A medium-sized, brown, snake-like fish found in ocean waters.]
 	[NAME:conger eel:conger eels:conger eel]
 	[CASTE_NAME:conger eel:conger eels:conger eel]
 	[CHILD:1][GENERAL_CHILD_NAME:conger eel fry:conger eel fry]

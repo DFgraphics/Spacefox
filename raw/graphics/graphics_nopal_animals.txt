@@ -1,4 +1,4 @@
-graphics_nopal_animals_w
+graphics_nopal_animals
 
 [OBJECT:GRAPHICS]
 
