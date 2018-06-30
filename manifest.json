@@ -1,9 +1,9 @@
 {
     "author": "Spacefox, LeoCean, Nopal",
     "url": "https://github.com/DFgraphics/Spacefox",
-    "content_version": "http://www.bay12forums.com/smf/index.php?topic=129219.msg7757770#msg7757770 2018-05-11",
+    "content_version": "http://www.bay12forums.com/smf/index.php?topic=129219.msg7796544#msg7796544 2018-06-30",
     "df_min_version": "0.44.07",
-    "df_max_version": "0.44.10",
+    "df_max_version": "0.44.11",
     "folder_prefix": "Spacefox",
     "title": "Spacefox 16x",
     "tooltip": "A simple, clean look."
