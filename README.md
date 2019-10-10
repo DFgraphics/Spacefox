@@ -37,7 +37,7 @@ the game window, which will cause the pixels to be drawn at a scaled-down size t
 # 2.0 - Installation:
 * Copy the contents of the `/data/art/` folder into Dwarf Fortress' `/data/art/` folder.
 * Copy the contents of the `/data/init/` folder into Dwarf Fortress' `/data/init/` folder.
-* Copy the contents of the `/raw/objects/` folder into Dwarf Fortress' `/raw/objects/ folder.
+* Copy the contents of the `/raw/objects/` folder into Dwarf Fortress' `/raw/objects/` folder.
 * Copy the contents of the `/raw/graphics/` folder into Dwarf Fortress' `/raw/graphics/` folder.
  
 For any existing save files you have that you would like to use these graphics with, 
