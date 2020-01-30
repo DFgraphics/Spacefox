@@ -2198,3 +2198,4 @@ language_HUMAN
 	[T_WORD:REASON:kabar]
 	[T_WORD:SQUAT:smoro]
 	[T_WORD:FESTIVAL:raqui]
+	[T_WORD:COMPANY:thranan]

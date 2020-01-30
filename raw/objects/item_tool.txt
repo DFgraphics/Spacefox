@@ -339,7 +339,6 @@ item_tool
 [SIZE:1000]
 [NO_DEFAULT_JOB]
 
-
 [ITEM_TOOL:ITEM_TOOL_ALTAR]
 [NAME:altar:altars]
 [VALUE:10]

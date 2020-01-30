@@ -2198,3 +2198,4 @@ language_GOBLIN
 	[T_WORD:REASON:xonzom]
 	[T_WORD:SQUAT:ebro]
 	[T_WORD:FESTIVAL:ˆzslust]
+	[T_WORD:COMPANY:obeng]

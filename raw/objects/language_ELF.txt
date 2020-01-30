@@ -2198,3 +2198,4 @@ language_ELF
 	[T_WORD:REASON:rayo]
 	[T_WORD:SQUAT:quequava]
 	[T_WORD:FESTIVAL:omiva]
+	[T_WORD:COMPANY:famari]
