@@ -310,3 +310,10 @@ Options are REPLACE_FIRST, CENTRALIZE (between first and last), REPLACE_ALL
 Set this number to scale how often grazing animals need to eat.  Larger numbers mean less food is necessary.  Metabolism is always set according to the 3/4ths power of size.
 
 [GRAZE_COEFFICIENT:100]
+
+Set these to control how subgroups form and develop in the fortress.
+
+[PRIESTHOOD_UNIT_COUNTS:10:25]
+[TEMPLE_VALUE_LEVELS:2000:10000]
+[GUILD_UNIT_COUNTS:10:25]
+[GUILDHALL_VALUE_LEVELS:2000:10000]
