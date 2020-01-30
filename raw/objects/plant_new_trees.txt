@@ -2,7 +2,7 @@ plant_new_trees
 
 With contributions from:
 
-/u/XIILarxene - Alexis DeSilva
+/u/alastrionacatskill - Alexis DeSilva
 /u/K3achas - Jenifer De Jager
 	My densities come from http://www.csudh.edu/oliver/chemdata/woods.htm (I got all the trees from there in plant_new_trees, color from https://www.woodworkerssource.com and http://www.forestryforum.com
 
