@@ -3,7 +3,7 @@
     "url": "https://github.com/DFgraphics/Spacefox",
     "content_version": "2020-01-30",
     "df_min_version": "0.47.01",
-    "df_max_version": "0.47.01",
+    "df_max_version": "0.47.02",
     "folder_prefix": "Spacefox",
     "title": "Spacefox 16x",
     "tooltip": "A simple, clean look."
