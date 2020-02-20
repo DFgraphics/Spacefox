@@ -970,7 +970,7 @@
 #[OVERRIDE:152:I:TOOL:TOOL::dorenitems24:26] #wheelbarrow
 
 #[OVERRIDE:145:I:TOY:TOY:0:wipitems:163]
-[OVERRIDE:145:I:TOY:TOY:0:leocean:18] #this is just for enchanced version, other versions would have more toys
+#[OVERRIDE:145:I:TOY:TOY:0:leocean:18] #this is just for enchanced version, other versions would have more toys
 #spacefox edited, original was different# END#
 
 #[OVERRIDE:145:I:TOY:TOY:1:wipitems:164]
@@ -1205,3 +1205,9 @@
 #[OVERRIDE:247:T:FrozenFloorSmooth:wipworkshops:241]
 #[OVERRIDE:43:T:LavaFloorSmooth:wipworkshops:241]
 #[OVERRIDE:43:T:FeatureFloorSmooth:wipworkshops:241]
+
+[TILESET:_jecoverides.png:_jecoverides.png:jecoverides]
+[OVERRIDE:145:I:TOY:TOY:0:jecoverides:0] - toy (all types?)
+[OVERRIDE:241:I:TOOL:TOOL:ITEM_TOOL_DIE:jecoverides:4] #die
+[OVERRIDE:232:I:TOOL:TOOL:ITEM_TOOL_ALTAR:jecoverides:7] #altar
+[OVERRIDE:232:B:91:OfferingPlace::jecoverides:7] #altar
