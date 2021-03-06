@@ -2,11 +2,11 @@ plant_new_trees
 
 With contributions from:
 
-/u/alastrionacatskill - Alexis DeSilva
+Alexandra Brython
 /u/K3achas - Jenifer De Jager
 	My densities come from http://www.csudh.edu/oliver/chemdata/woods.htm (I got all the trees from there in plant_new_trees, color from https://www.woodworkerssource.com and http://www.forestryforum.com
 
-/u/JapaMala - Japa
+Rose
 	I converted all the material colors I have in Armok Vision to their closest DF color tokens, and copied them here.
 
 [OBJECT:PLANT]
